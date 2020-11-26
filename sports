@@ -1,4 +1,72 @@
 #EXTM3U
+#EXTINF: Bein Sports News
+http://vvn.neoredi.com/iptv/ch110?code=113141163091679&key=11453
+#EXTINF: beINSPORTSenespanol
+http://vvn.neoredi.com/iptv/ch400?code=113141163091679&key=62332
+#EXTINF: BeInSport 1 HD
+http://vvn.neoredi.com/iptv/ch111?code=113141163091679&key=47110
+#EXTINF: BeInSport 1 SD
+http://vvn.neoredi.com/iptv/ch8111?code=113141163091679&key=51942
+#EXTINF: BeInSport 2 HD
+http://vvn.neoredi.com/iptv/ch112?code=113141163091679&key=30464
+#EXTINF: BeInSport 2 SD
+http://vvn.neoredi.com/iptv/ch8112?code=113141163091679&key=34462
+#EXTINF: BeInSport 3 HD
+http://vvn.neoredi.com/iptv/ch113?code=113141163091679&key=64100
+#EXTINF: BeInSport 3 SD
+http://vvn.neoredi.com/iptv/ch8113?code=113141163091679&key=26908
+EXTINF: BeInSport 4 HD
+http://vvn.neoredi.com/iptv/ch114?code=113141163091679&key=59080
+#EXTINF: BeInSport 4 SD
+http://vvn.neoredi.com/iptv/ch8114?code=113141163091679&key=39781
+#EXTINF: BeInSport 5 HD
+http://vvn.neoredi.com/iptv/ch115?code=113141163091679&key=16084
+#EXTINF: BeInSport 5 SD
+http://vvn.neoredi.com/iptv/ch8115?code=113141163091679&key=22964
+#EXTINF: BeInSport 6 HD
+http://vvn.neoredi.com/iptv/ch116?code=113141163091679&key=13721
+#EXTINF: BeInSport 6 SD
+http://vvn.neoredi.com/iptv/ch8116?code=113141163091679&key=22169
+#EXTINF: BeInSport 7 HD
+http://vvn.neoredi.com/iptv/ch117?code=113141163091679&key=19411
+#EXTINF: BeInSport 7 SD
+http://vvn.neoredi.com/iptv/ch8117?code=113141163091679&key=44128
+#EXTINF: BeInSport 8 HD
+http://vvn.neoredi.com/iptv/ch118?code=113141163091679&key=44980
+#EXTINF: BeInSport 8 SD
+http://vvn.neoredi.com/iptv/ch8118?code=113141163091679&key=48392
+#EXTINF: BeInSport 9 HD
+http://vvn.neoredi.com/iptv/ch510?code=113141163091679&key=45622
+#EXTINF: BeInSport 9 SD
+http://vvn.neoredi.com/iptv/ch8510?code=113141163091679&key=33898
+#EXTINF: BeInSport 10 HD
+http://vvn.neoredi.com/iptv/ch511?code=113141163091679&key=52576
+#EXTINF: BeInSport 10 SD
+http://vvn.neoredi.com/iptv/ch8511?code=113141163091679&key=55543
+#EXTINF: BeInSport 11 HD
+http://vvn.neoredi.com/iptv/ch512?code=113141163091679&key=32348
+#EXTINF: BeInSport 11 SD
+http://vvn.neoredi.com/iptv/ch8512?code=113141163091679&key=14912
+#EXTINF: BeInSport 12 HD
+http://vvn.neoredi.com/iptv/ch513?code=113141163091679&key=34895
+#EXTINF: BeInSport 12 SD
+http://vvn.neoredi.com/iptv/ch8513?code=113141163091679&key=38926
+#EXTINF: BeInSport 13 HD
+http://vvn.neoredi.com/iptv/ch514?code=113141163091679&key=43001
+#EXTINF: BeInSport 13 SD
+http://vvn.neoredi.com/iptv/ch8514?code=113141163091679&key=51465
+#EXTINF: BeInSport 14 HD
+http://vvn.neoredi.com/iptv/ch515?code=113141163091679&key=18334
+#EXTINF: BeInSport 14 SD
+http://vvn.neoredi.com/iptv/ch8515?code=113141163091679&key=50176
+#EXTINF: BeInSport 15 HD
+http://vvn.neoredi.com/iptv/ch516?code=113141163091679&key=12639
+#EXTINF: BeInSport 15 SD
+http://vvn.neoredi.com/iptv/ch8516?code=113141163091679&key=24511
+#EXTINF: BeInSport 16 HD
+http://vvn.neoredi.com/iptv/ch517?code=113141163091679&key=41867
+#EXTINF: BeInSport NBA HD
+http://vvn.neoredi.com/iptv/ch522?code=113141163091679&key=22648
 #EXTINF: KSA SPORT 1
 http://vvn.neoredi.com/iptv/ch823?code=113141163091679&key=58929
 #EXTINF: KSA SPORT 2
