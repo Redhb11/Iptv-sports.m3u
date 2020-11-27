@@ -307,5 +307,38 @@ http://vvn.neoredi.com/iptv/ch1229?code=113141163091679&key=45499
 http://vvn.neoredi.com/iptv/ch1284?code=113141163091679&key=64972
 #EXTINF: -1,Formula1 HD SP
 http://vvn.neoredi.com/iptv/ch1285?code=113141163091679&key=54651
+#EXTINF: -1,Beinsports
+http://vvn.neoredi.com/iptv/ch3529?code=113141163091679&key=31858
+#EXTINF: -1,TSN 1 HD
+http://vvn.neoredi.com/iptv/ch3522?code=113141163091679&key=37899
+#EXTINF: -1,TSN 2 HD
+http://vvn.neoredi.com/iptv/ch3523?code=113141163091679&key=29605
+#EXTINF: -1,TSN 3 HD
+http://vvn.neoredi.com/iptv/ch3524?code=113141163091679&key=47954
+#EXTINF: -1,TSN 4 HD
+http://vvn.neoredi.com/iptv/ch3525?code=113141163091679&key=53181
+#EXTINF: -1,TSN 5 HD
+http://vvn.neoredi.com/iptv/ch3526?code=113141163091679&key=63687
+#EXTINF: -1,NBC HD
+http://vvn.neoredi.com/iptv/ch3521?code=113141163091679&key=15855
+#EXTINF: -1,WWE net
+http://vvn.neoredi.com/iptv/ch3518?code=113141163091679&key=33686
+#EXTINF: -1,NHL net HD
+http://vvn.neoredi.com/iptv/ch3517?code=113141163091679&key=51044
+#EXTINF: -1,NBC Sports net
+http://vvn.neoredi.com/iptv/ch3516?code=113141163091679&key=59067
+#EXTINF: -1,NBA HD
+http://vvn.neoredi.com/iptv/ch3515?code=113141163091679&key=36204
+#EXTINF: -1,Fox Sport 1 HD
+http://vvn.neoredi.com/iptv/ch3513?code=113141163091679&key=33419
+#EXTINF: -1,Fox Sport 2 HD
+http://vvn.neoredi.com/iptv/ch3514?code=113141163091679&key=64770
+#EXTINF: -1,ESPN2 HD
+http://vvn.neoredi.com/iptv/ch3512?code=113141163091679&key=45633
+#EXTINF: -1,ESPN HD
+http://vvn.neoredi.com/iptv/ch3511?code=113141163091679&key=52113
+#EXTINF: -1nESPN News HD
+http://vvn.neoredi.com/iptv/ch3510?code=113141163091679&key=56514
+
 
 
