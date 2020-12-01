@@ -83,6 +83,8 @@ http://vvn.neoredi.com/iptv/ch603?code=113141163091679&key=23933
 http://vvn.neoredi.com/iptv/ch5519?code=113141163091679&key=12942
 #EXTINF:-1 group-title="Arabic Premium" tvg-logo="http://logo.ddnb.tn/logochanel/5520.png",AD Sport 4 HD
 http://vvn.neoredi.com/iptv/ch5520?code=113141163091679&key=11374
+#EXTINF:-1 group-title="Arabic Premium" tvg-logo="http://logo.ddnb.tn/logochanel/5521.png",AD Sport 5 HD
+http://vvn.neoredi.com/iptv/ch5521?code=113141163091679&key=51571
 #EXTINF:-1 group-title="Arabic Sport" tvg-logo="http://logo.ddnb.tn/logochanel/497.png",Al Kaas 1
 http://vvn.neoredi.com/iptv/ch497?code=113141163091679&key=48218
 #EXTINF:-1 group-title="Arabic Sport" tvg-logo="http://logo.ddnb.tn/logochanel/442.png",Al Kaas 2
@@ -335,6 +337,8 @@ http://vvn.neoredi.com/iptv/ch3514?code=113141163091679&key=64770
 http://vvn.neoredi.com/iptv/ch3512?code=113141163091679&key=45633
 #EXTINF:-1 group-title="USA" tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
 http://vvn.neoredi.com/iptv/ch3511?code=113141163091679&key=52113
+#EXTINF:-1 group-title="USA" tvg-logo="http://logo.ddnb.tn/logochanel/3510.png",ESPN News HD
+http://vvn.neoredi.com/iptv/ch3510?code=113141163091679&key=56514
 #EXTINF:-1 group-title="Benelux" tvg-logo="http://logo.ddnb.tn/logochanel/867.png",Fox sport 1
 http://vvn.neoredi.com/iptv/ch867?code=113141163091679&key=13110
 #EXTINF:-1 group-title="Benelux" tvg-logo="http://logo.ddnb.tn/logochanel/891.png",Fox sport 2
