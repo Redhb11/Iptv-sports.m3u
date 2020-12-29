@@ -1,449 +1,1759 @@
 #EXTM3U
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/110.png",Bein Sports News
-http://vvn.neoredi.com/iptv/ch110?code=113141163091679&key=11453
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/400.png",Bein Sport
-http://vvn.neoredi.com/iptv/ch400?code=113141163091679&key=62332
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
-http://vvn.neoredi.com/iptv/ch111?code=113141163091679&key=47110
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-http://vvn.neoredi.com/iptv/ch8111?code=113141163091679&key=51942
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
-http://vvn.neoredi.com/iptv/ch112?code=113141163091679&key=30464
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-http://vvn.neoredi.com/iptv/ch8112?code=113141163091679&key=34462
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-http://vvn.neoredi.com/iptv/ch113?code=113141163091679&key=64100
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8113.png",BeInSport 3 SD
-http://vvn.neoredi.com/iptv/ch8113?code=113141163091679&key=26908
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
-http://vvn.neoredi.com/iptv/ch114?code=113141163091679&key=59080
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8114.png",BeInSport 4 SD
-http://vvn.neoredi.com/iptv/ch8114?code=113141163091679&key=39781
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
-http://vvn.neoredi.com/iptv/ch115?code=113141163091679&key=16084
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8115.png",BeInSport 5 SD
-http://vvn.neoredi.com/iptv/ch8115?code=113141163091679&key=22964
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
-http://vvn.neoredi.com/iptv/ch116?code=113141163091679&key=13721
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8116.png",BeInSport 6 SD
-http://vvn.neoredi.com/iptv/ch8116?code=113141163091679&key=22169
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-http://vvn.neoredi.com/iptv/ch117?code=113141163091679&key=19411
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8117.png",BeInSport 7 SD
-http://vvn.neoredi.com/iptv/ch8117?code=113141163091679&key=44128
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
-http://vvn.neoredi.com/iptv/ch118?code=113141163091679&key=44980
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8118.png",BeInSport 8 SD
-http://vvn.neoredi.com/iptv/ch8118?code=113141163091679&key=48392
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
-http://vvn.neoredi.com/iptv/ch510?code=113141163091679&key=45622
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8510.png",BeInSport 9 SD
-http://vvn.neoredi.com/iptv/ch8510?code=113141163091679&key=33898
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/511.png",BeInSport 10 HD
-http://vvn.neoredi.com/iptv/ch511?code=113141163091679&key=52576
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8511.png",BeInSport 10 SD
-http://vvn.neoredi.com/iptv/ch8511?code=113141163091679&key=55543
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BeInSport 11 HD
-http://vvn.neoredi.com/iptv/ch512?code=113141163091679&key=32348
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8512.png",BeInSport 11 SD
-http://vvn.neoredi.com/iptv/ch8512?code=113141163091679&key=14912
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 12 HD
-http://vvn.neoredi.com/iptv/ch513?code=113141163091679&key=34895
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8513.png",BeInSport 12 SD
-http://vvn.neoredi.com/iptv/ch8513?code=113141163091679&key=38926
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/514.png",BeInSport 13 HD
-http://vvn.neoredi.com/iptv/ch514?code=113141163091679&key=43001
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8514.png",BeInSport 13 SD
-http://vvn.neoredi.com/iptv/ch8514?code=113141163091679&key=51465
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/515.png",BeInSport 14 HD
-http://vvn.neoredi.com/iptv/ch515?code=113141163091679&key=18334
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8515.png",BeInSport 14 SD
-http://vvn.neoredi.com/iptv/ch8515?code=113141163091679&key=50176
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/516.png",BeInSport 15 HD
-http://vvn.neoredi.com/iptv/ch516?code=113141163091679&key=12639
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8516.png",BeInSport 15 SD
-http://vvn.neoredi.com/iptv/ch8516?code=113141163091679&key=24511
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/517.png",BeInSport 16 HD
-http://vvn.neoredi.com/iptv/ch517?code=113141163091679&key=41867
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/522.png",BeInSport NBA HD
-http://vvn.neoredi.com/iptv/ch522?code=113141163091679&key=22648
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/823.png",KSA SPORT 1
-http://vvn.neoredi.com/iptv/ch823?code=113141163091679&key=58929
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/824.png",KSA SPORT 2
-http://vvn.neoredi.com/iptv/ch824?code=113141163091679&key=47509
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/825.png",KSA SPORT 3
-http://vvn.neoredi.com/iptv/ch825?code=113141163091679&key=42459
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/826.png",KSA SPORT 4
-http://vvn.neoredi.com/iptv/ch826?code=113141163091679&key=57813
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/122.png",AD Sport 1 HD
-http://vvn.neoredi.com/iptv/ch122?code=113141163091679&key=16123
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/603.png",AD Sport 2 HD
-http://vvn.neoredi.com/iptv/ch603?code=113141163091679&key=23933
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/5519.png",AD Sport 3 HD
-http://vvn.neoredi.com/iptv/ch5519?code=113141163091679&key=12942
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/5520.png",AD Sport 4 HD
-http://vvn.neoredi.com/iptv/ch5520?code=113141163091679&key=11374
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/5521.png",AD Sport 5 HD
-http://vvn.neoredi.com/iptv/ch5521?code=113141163091679&key=51571
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/497.png",Al Kaas 1
-http://vvn.neoredi.com/iptv/ch497?code=113141163091679&key=48218
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/442.png",Al Kaas 2
-http://vvn.neoredi.com/iptv/ch442?code=113141163091679&key=48810
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/545.png",Al Kaas 4
-http://vvn.neoredi.com/iptv/ch545?code=113141163091679&key=30397
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/629.png",Yas Sports
-http://vvn.neoredi.com/iptv/ch629?code=113141163091679&key=16510
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/783.png",Ahly Channel
-http://vvn.neoredi.com/iptv/ch783?code=113141163091679&key=10173
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/154.png",Dubai Sport 1
-http://vvn.neoredi.com/iptv/ch154?code=113141163091679&key=34606
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/155.png",Dubai Sport 2
-http://vvn.neoredi.com/iptv/ch155?code=113141163091679&key=10919
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/1533.png",Dubai Sport 3
-http://vvn.neoredi.com/iptv/ch1533?code=113141163091679&key=49706
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/1531.png",Dubai Racing 1
-http://vvn.neoredi.com/iptv/ch1531?code=113141163091679&key=50983
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/1031.png",Dubai Racing 2
-http://vvn.neoredi.com/iptv/ch1031?code=113141163091679&key=57450
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/1532.png",Dubai Racing 3
-http://vvn.neoredi.com/iptv/ch1532?code=113141163091679&key=31255
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/747.png",Saudie Sport
-http://vvn.neoredi.com/iptv/ch747?code=113141163091679&key=54777
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",Canal+ Sport
-http://vvn.neoredi.com/iptv/ch202?code=113141163091679&key=55336
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/269.png",Equidia Live
-http://vvn.neoredi.com/iptv/ch269?code=113141163091679&key=26845
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/268.png",Auto Moto
-http://vvn.neoredi.com/iptv/ch268?code=113141163091679&key=12168
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1299.png",Golf Plus FR
-http://vvn.neoredi.com/iptv/ch1299?code=113141163091679&key=50269
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/290.png",Golf Channel FR
-http://vvn.neoredi.com/iptv/ch290?code=113141163091679&key=46941
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/743.png",EuroSport 1 HD
-http://vvn.neoredi.com/iptv/ch743?code=113141163091679&key=38975
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/744.png",EuroSport 2 HD
-http://vvn.neoredi.com/iptv/ch744?code=113141163091679&key=36508
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/266.png",Foot Plus
-http://vvn.neoredi.com/iptv/ch266?code=113141163091679&key=41818
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/250.png",Infosport HD
-http://vvn.neoredi.com/iptv/ch250?code=113141163091679&key=16865
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC News HD
-http://vvn.neoredi.com/iptv/ch244?code=113141163091679&key=35710
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1648.png",Eleven Sport 1 Fr.
-http://vvn.neoredi.com/iptv/ch1648?code=113141163091679&key=40415
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1649.png",Eleven Sport 2 Fr.
-http://vvn.neoredi.com/iptv/ch1649?code=113141163091679&key=61925
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",RMC Sport 1 HD
-http://vvn.neoredi.com/iptv/ch255?code=113141163091679&key=44324
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/253.png",RMC Sport 2 HD
-http://vvn.neoredi.com/iptv/ch253?code=113141163091679&key=18140
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/254.png",RMC Sport 3 HD
-http://vvn.neoredi.com/iptv/ch254?code=113141163091679&key=31964
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/243.png",RMC Sport 4 HD
-http://vvn.neoredi.com/iptv/ch243?code=113141163091679&key=36330
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1440.png",RMC Sport 5 HD
-http://vvn.neoredi.com/iptv/ch1440?code=113141163091679&key=31488
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1441.png",RMC Sport 6 HD
-http://vvn.neoredi.com/iptv/ch1441?code=113141163091679&key=25901
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1442.png",RMC Sport 7 HD
-http://vvn.neoredi.com/iptv/ch1442?code=113141163091679&key=15910
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1443.png",RMC Sport 8 HD
-http://vvn.neoredi.com/iptv/ch1443?code=113141163091679&key=35378
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1444.png",RMC Sport 9 HD
-http://vvn.neoredi.com/iptv/ch1444?code=113141163091679&key=42187
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1445.png",RMC Sport 10 HD
-http://vvn.neoredi.com/iptv/ch1445?code=113141163091679&key=55404
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1446.png",RMC Sport 11 HD
-http://vvn.neoredi.com/iptv/ch1446?code=113141163091679&key=64164
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1447.png",RMC Sport 12 HD
-http://vvn.neoredi.com/iptv/ch1447?code=113141163091679&key=32399
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1448.png",RMC Sport 13 HD
-http://vvn.neoredi.com/iptv/ch1448?code=113141163091679&key=17897
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9001.png",Telefoot HD
-http://vvn.neoredi.com/iptv/ch9001?code=113141163091679&key=24414
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9002.png",Telefoot Stadium 1 HD
-http://vvn.neoredi.com/iptv/ch9002?code=113141163091679&key=30945
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9003.png",Telefoot Stadium 2 HD
-http://vvn.neoredi.com/iptv/ch9003?code=113141163091679&key=20566
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9004.png",Telefoot Stadium 3 HD
-http://vvn.neoredi.com/iptv/ch9004?code=113141163091679&key=42304
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9005.png",Telefoot Stadium 4 HD
-http://vvn.neoredi.com/iptv/ch9005?code=113141163091679&key=44003
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9006.png",Telefoot Stadium 5 HD
-http://vvn.neoredi.com/iptv/ch9006?code=113141163091679&key=55102
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9007.png",Telefoot Stadium 6 HD
-http://vvn.neoredi.com/iptv/ch9007?code=113141163091679&key=17841
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9008.png",Telefoot Stadium 7 HD
-http://vvn.neoredi.com/iptv/ch9008?code=113141163091679&key=44904
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9009.png",Telefoot Stadium 8 HD
-http://vvn.neoredi.com/iptv/ch9009?code=113141163091679&key=38194
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/119.png",BeInSport 1 FR
-http://vvn.neoredi.com/iptv/ch119?code=113141163091679&key=23761
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/120.png",BeInSport 2 FR
-http://vvn.neoredi.com/iptv/ch120?code=113141163091679&key=15123
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/206.png",BeInSport 3 FR
-http://vvn.neoredi.com/iptv/ch206?code=113141163091679&key=32109
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 4
-http://vvn.neoredi.com/iptv/ch340?code=113141163091679&key=10797
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/341.png",BeInSport Max 5
-http://vvn.neoredi.com/iptv/ch341?code=113141163091679&key=11402
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/342.png",BeInSport Max 6
-http://vvn.neoredi.com/iptv/ch342?code=113141163091679&key=19940
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/343.png",BeInSport Max 7
-http://vvn.neoredi.com/iptv/ch343?code=113141163091679&key=56387
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/344.png",BeInSport Max 8
-http://vvn.neoredi.com/iptv/ch344?code=113141163091679&key=32275
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/345.png",BeInSport Max 9
-http://vvn.neoredi.com/iptv/ch345?code=113141163091679&key=39961
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/346.png",BeInSport Max 10
-http://vvn.neoredi.com/iptv/ch346?code=113141163091679&key=17994
-#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1523.png",Sky Sportnews DE
-http://vvn.neoredi.com/iptv/ch1523?code=113141163091679&key=52062
-#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/405.png",Sky Sport 1 HD DE
-http://vvn.neoredi.com/iptv/ch405?code=113141163091679&key=28176
-#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/406.png",Sky Sport 2 HD DE
-http://vvn.neoredi.com/iptv/ch406?code=113141163091679&key=39143
-#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1657.png",Dazn 1 DE
-http://vvn.neoredi.com/iptv/ch1657?code=113141163091679&key=39999
-#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1658.png",Dazn 2 DE
-http://vvn.neoredi.com/iptv/ch1658?code=113141163091679&key=61425
-#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1520.png",Sport1 DE
-http://vvn.neoredi.com/iptv/ch1520?code=113141163091679&key=49585
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2071.png",Boxnation
-http://vvn.neoredi.com/iptv/ch2071?code=113141163091679&key=12985
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2072.png",BT Sport ESPN
-http://vvn.neoredi.com/iptv/ch2072?code=113141163091679&key=19962
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1053.png",SKY Sport news UK
-http://vvn.neoredi.com/iptv/ch1053?code=113141163091679&key=42224
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football UK
-http://vvn.neoredi.com/iptv/ch922?code=113141163091679&key=18639
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/937.png",Sky Sport Premium UK
-http://vvn.neoredi.com/iptv/ch937?code=113141163091679&key=55291
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/914.png",SKY Sport Golf UK
-http://vvn.neoredi.com/iptv/ch914?code=113141163091679&key=32854
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/915.png",SKY Sport Action UK
-http://vvn.neoredi.com/iptv/ch915?code=113141163091679&key=27090
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/916.png",SKY Sport Criket UK
-http://vvn.neoredi.com/iptv/ch916?code=113141163091679&key=19388
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/931.png",Sport Mix UK
-http://vvn.neoredi.com/iptv/ch931?code=113141163091679&key=49683
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
-http://vvn.neoredi.com/iptv/ch1828?code=113141163091679&key=29525
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
-http://vvn.neoredi.com/iptv/ch1829?code=113141163091679&key=30468
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
-http://vvn.neoredi.com/iptv/ch1830?code=113141163091679&key=50051
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1831.png",BT Sport Europe
-http://vvn.neoredi.com/iptv/ch1831?code=113141163091679&key=48926
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1832.png",Setana Sport 1
-http://vvn.neoredi.com/iptv/ch1832?code=113141163091679&key=37410
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1833.png",ESPN
-http://vvn.neoredi.com/iptv/ch1833?code=113141163091679&key=29147
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1834.png",Premiere Sport UK
-http://vvn.neoredi.com/iptv/ch1834?code=113141163091679&key=45863
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/930.png",Sky Sport F1 UK
-http://vvn.neoredi.com/iptv/ch930?code=113141163091679&key=35410
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/929.png",Eurosport 1 UK
-http://vvn.neoredi.com/iptv/ch929?code=113141163091679&key=23587
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/918.png",Eurosport 2
-http://vvn.neoredi.com/iptv/ch918?code=113141163091679&key=43917
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1852.png",Free Sport UK
-http://vvn.neoredi.com/iptv/ch1852?code=113141163091679&key=60708
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/927.png",Manchester Ud. TV
-http://vvn.neoredi.com/iptv/ch927?code=113141163091679&key=18859
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1315.png",Rai Sport 1 IT
-http://vvn.neoredi.com/iptv/ch1315?code=113141163091679&key=23721
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/955.png",SKY Sport 24 IT
-http://vvn.neoredi.com/iptv/ch955?code=113141163091679&key=53134
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/953.png",SKY Sport Uno IT
-http://vvn.neoredi.com/iptv/ch953?code=113141163091679&key=46784
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/954.png",SKY Sport Serie A IT
-http://vvn.neoredi.com/iptv/ch954?code=113141163091679&key=42231
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1910.png",Sky Sport Football IT
-http://vvn.neoredi.com/iptv/ch1910?code=113141163091679&key=59039
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1927.png",Sky Sport Arena IT
-http://vvn.neoredi.com/iptv/ch1927?code=113141163091679&key=14475
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1990.png",Sky Sport Collection IT
-http://vvn.neoredi.com/iptv/ch1990?code=113141163091679&key=12260
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1991.png",Sky Sport NBA IT
-http://vvn.neoredi.com/iptv/ch1991?code=113141163091679&key=40583
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1992.png",Sky Sport MotoGp IT
-http://vvn.neoredi.com/iptv/ch1992?code=113141163091679&key=35220
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1325.png",Sky Sport F1
-http://vvn.neoredi.com/iptv/ch1325?code=113141163091679&key=30494
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1306.png",Sky Calcio 1 IT
-http://vvn.neoredi.com/iptv/ch1306?code=113141163091679&key=55406
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1307.png",Sky Calcio 2 IT
-http://vvn.neoredi.com/iptv/ch1307?code=113141163091679&key=37419
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1308.png",Sky Calcio 3 IT
-http://vvn.neoredi.com/iptv/ch1308?code=113141163091679&key=14669
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1926.png",Sky Calcio 4 IT
-http://vvn.neoredi.com/iptv/ch1926?code=113141163091679&key=11459
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1911.png",Sky Calcio 5 IT
-http://vvn.neoredi.com/iptv/ch1911?code=113141163091679&key=62891
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1912.png",Sky Calcio 6 IT
-http://vvn.neoredi.com/iptv/ch1912?code=113141163091679&key=62646
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1913.png",Sky Calcio 7 IT
-http://vvn.neoredi.com/iptv/ch1913?code=113141163091679&key=48678
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1914.png",Sky Calcio 8 IT
-http://vvn.neoredi.com/iptv/ch1914?code=113141163091679&key=23350
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1915.png",Sky Calcio 9 IT
-http://vvn.neoredi.com/iptv/ch1915?code=113141163091679&key=51798
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1933.png",Sport Italia IT
-http://vvn.neoredi.com/iptv/ch1933?code=113141163091679&key=15265
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1924.png",Eurosport 1 IT
-http://vvn.neoredi.com/iptv/ch1924?code=113141163091679&key=38218
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1925.png",Eurosport 2 IT
-http://vvn.neoredi.com/iptv/ch1925?code=113141163091679&key=17460
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1989.png",Inter Ch. IT
-http://vvn.neoredi.com/iptv/ch1989?code=113141163091679&key=63638
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1988.png",Lazio Ch. IT
-http://vvn.neoredi.com/iptv/ch1988?code=113141163091679&key=24541
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1987.png",Milan Ch. IT
-http://vvn.neoredi.com/iptv/ch1987?code=113141163091679&key=34984
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1986.png",Roma Ch. IT
-http://vvn.neoredi.com/iptv/ch1986?code=113141163091679&key=13707
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/994.png",Zelig Sport IT
-http://vvn.neoredi.com/iptv/ch994?code=113141163091679&key=33761
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1544.png",Super Tennis IT
-http://vvn.neoredi.com/iptv/ch1544?code=113141163091679&key=46663
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6520.png",Eleven Sport 1 Cy
-http://vvn.neoredi.com/iptv/ch6520?code=113141163091679&key=21954
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6521.png",Eleven Sport 2 Cy
-http://vvn.neoredi.com/iptv/ch6521?code=113141163091679&key=64700
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6522.png",Eleven Sport 3 Cy
-http://vvn.neoredi.com/iptv/ch6522?code=113141163091679&key=47996
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6523.png",Eleven Sport 4 Cy
-http://vvn.neoredi.com/iptv/ch6523?code=113141163091679&key=63731
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/4527.png",Canal+ Sport Cy
-http://vvn.neoredi.com/iptv/ch4527?code=113141163091679&key=39160
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6528.png",Canal+ Sport 2 Cy
-http://vvn.neoredi.com/iptv/ch6528?code=113141163091679&key=47696
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1203.png",LaLiga TV Bar 1
-http://vvn.neoredi.com/iptv/ch1203?code=113141163091679&key=23181
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1281.png",M.L. Campeones HD SP
-http://vvn.neoredi.com/iptv/ch1281?code=113141163091679&key=22139
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1282.png",La Liga 123 HD SP
-http://vvn.neoredi.com/iptv/ch1282?code=113141163091679&key=35065
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1286.png",LaLiga TV Bar
-http://vvn.neoredi.com/iptv/ch1286?code=113141163091679&key=43285
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1220.png",Bein Sport SPANA
-http://vvn.neoredi.com/iptv/ch1220?code=113141163091679&key=22625
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1221.png",Movistar LaLiga HD
-http://vvn.neoredi.com/iptv/ch1221?code=113141163091679&key=51797
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1222.png",Movistar Seriesmania
-http://vvn.neoredi.com/iptv/ch1222?code=113141163091679&key=55580
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1224.png",Movistar LaLiga 1 HD
-http://vvn.neoredi.com/iptv/ch1224?code=113141163091679&key=29667
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1223.png",Real Madrid CH.
-http://vvn.neoredi.com/iptv/ch1223?code=113141163091679&key=22585
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1225.png",Barca Tv
-http://vvn.neoredi.com/iptv/ch1225?code=113141163091679&key=37951
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1202.png",Eurosport 1
-http://vvn.neoredi.com/iptv/ch1202?code=113141163091679&key=12707
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1228.png",Canal Panda SP
-http://vvn.neoredi.com/iptv/ch1228?code=113141163091679&key=17022
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1229.png",Neox SP
-http://vvn.neoredi.com/iptv/ch1229?code=113141163091679&key=45499
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1284.png",Moto GP HD SP
-http://vvn.neoredi.com/iptv/ch1284?code=113141163091679&key=64972
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula1 HD SP
-http://vvn.neoredi.com/iptv/ch1285?code=113141163091679&key=54651
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",Beinsports
-http://vvn.neoredi.com/iptv/ch3529?code=113141163091679&key=31858
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
-http://vvn.neoredi.com/iptv/ch3522?code=113141163091679&key=37899
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
-http://vvn.neoredi.com/iptv/ch3525?code=113141163091679&key=53181
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
-http://vvn.neoredi.com/iptv/ch3523?code=113141163091679&key=29605
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
-http://vvn.neoredi.com/iptv/ch3524?code=113141163091679&key=47954
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
-http://vvn.neoredi.com/iptv/ch3526?code=113141163091679&key=63687
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png",NBC HD
-http://vvn.neoredi.com/iptv/ch3521?code=113141163091679&key=15855
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png",WWE net.
-http://vvn.neoredi.com/iptv/ch3518?code=113141163091679&key=33686
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",NHL net. HD
-http://vvn.neoredi.com/iptv/ch3517?code=113141163091679&key=51044
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC Sports net.
-http://vvn.neoredi.com/iptv/ch3516?code=113141163091679&key=59067
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png",NBA HD
-http://vvn.neoredi.com/iptv/ch3515?code=113141163091679&key=36204
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",Fox Sport 1 HD
-http://vvn.neoredi.com/iptv/ch3513?code=113141163091679&key=33419
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png",Fox Sport 2 HD
-http://vvn.neoredi.com/iptv/ch3514?code=113141163091679&key=64770
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",ESPN2 HD
-http://vvn.neoredi.com/iptv/ch3512?code=113141163091679&key=45633
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
-http://vvn.neoredi.com/iptv/ch3511?code=113141163091679&key=52113
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png",ESPN News HD
-http://vvn.neoredi.com/iptv/ch3510?code=113141163091679&key=56514
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/867.png",Fox sport 1
-http://vvn.neoredi.com/iptv/ch867?code=113141163091679&key=13110
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/891.png",Fox sport 2
-http://vvn.neoredi.com/iptv/ch891?code=113141163091679&key=16482
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/880.png",Fox sport 3
-http://vvn.neoredi.com/iptv/ch880?code=113141163091679&key=36599
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1861.png",Fox Sport 4
-http://vvn.neoredi.com/iptv/ch1861?code=113141163091679&key=21647
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1862.png",Fox Sport 5
-http://vvn.neoredi.com/iptv/ch1862?code=113141163091679&key=50655
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1863.png",Fox Sport 6
-http://vvn.neoredi.com/iptv/ch1863?code=113141163091679&key=30424
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/3586.png",Ziggo NL
-http://vvn.neoredi.com/iptv/ch3586?code=113141163091679&key=14192
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1864.png",Ziggo Sport
-http://vvn.neoredi.com/iptv/ch1864?code=113141163091679&key=19328
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/878.png",Ziggo Sport Voetball
-http://vvn.neoredi.com/iptv/ch878?code=113141163091679&key=31330
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1879.png",Ziggo Sport Golf
-http://vvn.neoredi.com/iptv/ch1879?code=113141163091679&key=36585
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1867.png",Ziggo Sport Extra
-http://vvn.neoredi.com/iptv/ch1867?code=113141163091679&key=42708
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1866.png",Ziggo Sport Doc.
-http://vvn.neoredi.com/iptv/ch1866?code=113141163091679&key=37205
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/3585.png",Ziggo Sport Racing NL
-http://vvn.neoredi.com/iptv/ch3585?code=113141163091679&key=60042
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/860.png",Ziggo Sport Select
-http://vvn.neoredi.com/iptv/ch860?code=113141163091679&key=26826
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1969.png",Eurosport 1 NL
-http://vvn.neoredi.com/iptv/ch1969?code=113141163091679&key=14854
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/3549.png",Eurosport 2 NL
-http://vvn.neoredi.com/iptv/ch3549?code=113141163091679&key=61259
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",Sport TV 1 PT
-http://vvn.neoredi.com/iptv/ch2123?code=113141163091679&key=36266
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",Sport TV 2 PT
-http://vvn.neoredi.com/iptv/ch2124?code=113141163091679&key=14665
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",Sport TV 3 PT
-http://vvn.neoredi.com/iptv/ch2125?code=113141163091679&key=40122
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",Sport TV 4 PT
-http://vvn.neoredi.com/iptv/ch2126?code=113141163091679&key=49386
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",Sport TV 5 PT
-http://vvn.neoredi.com/iptv/ch2127?code=113141163091679&key=56109
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2128.png",Eurosport 1 PT
-http://vvn.neoredi.com/iptv/ch2128?code=113141163091679&key=29460
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2129.png",Eurosport 2 PT
-http://vvn.neoredi.com/iptv/ch2129?code=113141163091679&key=55831
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1353.png",BeinSport 1 TR
-http://vvn.neoredi.com/iptv/ch1353?code=113141163091679&key=56774
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2355.png",BeinSport 2 TR
-http://vvn.neoredi.com/iptv/ch2355?code=113141163091679&key=33247
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2356.png",BeinSport 3 TR
-http://vvn.neoredi.com/iptv/ch2356?code=113141163091679&key=50360
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2360.png",BeinSport 4 TR
-http://vvn.neoredi.com/iptv/ch2360?code=113141163091679&key=45404
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2358.png",BeinSport Max 1
-http://vvn.neoredi.com/iptv/ch2358?code=113141163091679&key=44097
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2359.png",BeinSport Max 2
-http://vvn.neoredi.com/iptv/ch2359?code=113141163091679&key=32137
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2361.png",Tivibu Sport 1
-http://vvn.neoredi.com/iptv/ch2361?code=113141163091679&key=28351
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2362.png",Tivibu Sport 2
-http://vvn.neoredi.com/iptv/ch2362?code=113141163091679&key=26904
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1356.png",Tivibu Sport 3
-http://vvn.neoredi.com/iptv/ch1356?code=113141163091679&key=52498
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1355.png",Smart Sport 1
-http://vvn.neoredi.com/iptv/ch1355?code=113141163091679&key=61031
+#EXTINF:-1,SP: SPORT KLUB 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/39
+#EXTINF:-1,SP: SPORT KLUB 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/40
+#EXTINF:-1,SP: SPORT KLUB 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/41
+#EXTINF:-1,SP: SPORT KLUB 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/431
+#EXTINF:-1,SP: SPORT KLUB 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/432
+#EXTINF:-1,SP: SPORT KLUB 6
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/433
+#EXTINF:-1,SP: DIGI SPORT 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/434
+#EXTINF:-1,SP: FOX SPORTS 1 NL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/435
+#EXTINF:-1,SP: FOX SPORTS 2 NL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/436
+#EXTINF:-1,SP: ELEVEN SPORTS 1 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/485
+#EXTINF:-1,SP: ELEVEN SPORTS 2 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/488
+#EXTINF:-1,SP: ELEVEN SPORTS 3 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/490
+#EXTINF:-1,SP: ELEVEN SPORTS 4 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/493
+#EXTINF:-1,SP: ELEVEN SPORTS 5 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/494
+#EXTINF:-1,SP: ELEVEN SPORTS 6 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/495
+#EXTINF:-1,SP: SPORT TV 1 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/496
+#EXTINF:-1,SP: SPORT TV 2 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/497
+#EXTINF:-1,SP: SPORT TV 3 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/499
+#EXTINF:-1,SP: SPORT TV 4 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/502
+#EXTINF:-1,SP: SPORT TV 5 HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/514
+#EXTINF:-1,SP: RMC Sport 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/516
+#EXTINF:-1,SP: RMC Sport 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/517
+#EXTINF:-1,SP: RMC Sport 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/518
+#EXTINF:-1,SP: RMC Sport 4 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/519
+#EXTINF:-1,SP: RMC Sport 5 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/521
+#EXTINF:-1,SP: RMC Sport 6 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/522
+#EXTINF:-1,SP: RMC Sport 7 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/523
+#EXTINF:-1,SP: RMC Sport 8 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/524
+#EXTINF:-1,SP: RMC Sport 10 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/525
+#EXTINF:-1,SP: TELEKOM SPORT 1 RO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/526
+#EXTINF:-1,SP: TELEKOM SPORT 2 RO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/527
+#EXTINF:-1,SP: TELEKOM SPORT 3 RO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/529
+#EXTINF:-1,SP: TELEKOM SPORT 4 RO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/530
+#EXTINF:-1,SP: DIGI SPORT 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/535
+#EXTINF:-1,SP: DIGI SPORT 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/537
+#EXTINF:-1,SP: DIGI SPORT 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/539
+#EXTINF:-1,SP: SPORT TV + HD PT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/504
+#EXTINF:-1,SP: POLSAT SPORT HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/550
+#EXTINF:-1,SP: POLSAT SPORT FIGHT HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/551
+#EXTINF:-1,SP: EUROSPORT 1 PL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/552
+#EXTINF:-1,SP: EUROSPORT 2 PL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/553
+#EXTINF:-1,SP: BEIN SPORT 1 TR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/583
+#EXTINF:-1,SP: BEIN SPORT 2 TR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/584
+#EXTINF:-1,SP: BEIN SPORT 3 TR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/585
+#EXTINF:-1,SP: TIVIBU SPORT 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/586
+#EXTINF:-1,SP: TIVIBU SPORT 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/587
+#EXTINF:-1,SP: SMART SPORT TR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/588
+#EXTINF:-1,SP: EUROSPORT 1 TR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/589
+#EXTINF:-1,SP: EUROSPORT 2 TR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/590
+#EXTINF:-1,SP: A SPOR HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/591
+#EXTINF:-1,SP: SUPERSPORT 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/603
+#EXTINF:-1,SP: SUPERSPORT PSL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/604
+#EXTINF:-1,SP: SUPERSPORT PREMIER LEAGUE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/605
+#EXTINF:-1,SP: SUPERSPORT GRANDSTAND
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/606
+#EXTINF:-1,SP: SUPERSPORT VARIETY 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/607
+#EXTINF:-1,SP: SUPERSPORT VARIETY 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/608
+#EXTINF:-1,SP: SUPERSPORT ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/609
+#EXTINF:-1,SP: SUPERSPORT FOOTBALL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/610
+#EXTINF:-1,SP: SUPERSPORT VARIETY 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/611
+#EXTINF:-1,SP: SUPERSPORT VARIETY 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/612
+#EXTINF:-1,SP: SUPERSPORT RUGBY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/613
+#EXTINF:-1,SP: SUPERSPORT CRICKET
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/614
+#EXTINF:-1,SP: ESPN US
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/650
+#EXTINF:-1,SP: ESPN 2 US
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/651
+#EXTINF:-1,SP: TSN 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/652
+#EXTINF:-1,SP: TSN 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/653
+#EXTINF:-1,SP: TSN 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/654
+#EXTINF:-1,SP: TSN 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/655
+#EXTINF:-1,SP: TSN 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/656
+#EXTINF:-1,SP: NTV FOOTBALL 2 RU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/700
+#EXTINF:-1,SP: NTV FOOTBALL 3 RU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/701
+#EXTINF:-1,SP: MATCH! RU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/702
+#EXTINF:-1,SP: NASH FOOTBALL RU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/703
+#EXTINF:-1,SP: POLSAT SPORT PREMIUM 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/704
+#EXTINF:-1,SP: SKY SPORTS NEWS UK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/649
+#EXTINF:-1,SP: POLSAT SPORT PREMIUM 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/705
+#EXTINF:-1,SP: POLSAT SPORT PREMIUM 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/706
+#EXTINF:-1,SP: POLSAT SPORT PREMIUM 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/707
+#EXTINF:-1,SP: POLSAT SPORT PREMIUM 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/708
+#EXTINF:-1,SP: POLSAT SPORT PREMIUM 6
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/709
+#EXTINF:-1,SP: CANAL+ SPORT PL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/713
+#EXTINF:-1,SP: CANAL+ SPORT 2 PL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/714
+#EXTINF:-1,SP: FOX SPORTS 3 NL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/715
+#EXTINF:-1,SP: FOX SPORTS 4 NL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/716
+#EXTINF:-1,SP: FOX SPORTS 5 NL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/717
+#EXTINF:-1,SP: Willow Cricket HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/771
+#EXTINF:-1,SP: ZIGGO SELECT NL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/808
+#EXTINF:-1,SP: ZIGGO VOETBAL NL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/809
+#EXTINF:-1,SP: CANAL GOLF ES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/845
+#EXTINF:-1,SP: CANAL LALIGA ES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/846
+#EXTINF:-1,SP: CANAL DEPORTES ES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/847
+#EXTINF:-1,SP: CANAL FOOTBALL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/848
+#EXTINF:-1,SP: GOL TV ES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/849
+#EXTINF:-1,SP: CANAL FORMULA 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/850
+#EXTINF:-1,SP: BARCA TV ES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/851
+#EXTINF:-1,SP: REAL MADRID ES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/852
+#EXTINF:-1,SP: LALIGA BAR ES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/853
+#EXTINF:-1,SP: ARENA SPORT 1 SR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/859
+#EXTINF:-1,SP: ARENA SPORT 2 SR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/860
+#EXTINF:-1,SP: ARENA SPORT 3 SR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/861
+#EXTINF:-1,SP: ARENA SPORT 4 SR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/862
+#EXTINF:-1,SP: ARENA SPORT 5 SR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/863
+#EXTINF:-1,SP: ZIGGO RACING
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/879
+#EXTINF:-1,SP: ZIGGO GOLF
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/880
+#EXTINF:-1,SP: ZIGGO DOCU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/881
+#EXTINF:-1,SP: FOX SPORTS 6 NL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/882
+#EXTINF:-1,SP: SPORT ITALIA IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/906
+#EXTINF:-1,SP: EUROSPORT 1 IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/907
+#EXTINF:-1,SP: SKY SPORT 24
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/908
+#EXTINF:-1,SP: SKY SPORT MOTOGP IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/909
+#EXTINF:-1,SP: SKY SPORT UNO IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/910
+#EXTINF:-1,SP: SKY SPORT FOOTBALL IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/911
+#EXTINF:-1,SP: SKY SPORT NBA IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/912
+#EXTINF:-1,SP: SKY SPORT SERIE A IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/913
+#EXTINF:-1,SP: SUPERSPORT 1 AL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/919
+#EXTINF:-1,SP: SUPERSPORT 2 AL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/920
+#EXTINF:-1,SP: SUPERSPORT 3 AL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/921
+#EXTINF:-1,SP: SUPERSPORT 4 AL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/922
+#EXTINF:-1,SP: SUPERSPORT 5 AL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/923
+#EXTINF:-1,FR: EUROSPORT 1 FR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/955
+#EXTINF:-1,SP: BEIN SPORT 1 FR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/956
+#EXTINF:-1,SP: BEIN SPORT 2 FR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/957
+#EXTINF:-1,SP: BEIN SPORT 3 FR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/958
+#EXTINF:-1,SP: INFOSPORT FR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/959
+#EXTINF:-1,SP: BEIN SPORT 1 AR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/967
+#EXTINF:-1,SP: BEIN SPORT 2 AR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/968
+#EXTINF:-1,SP: BEIN SPORT 3 AR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/969
+#EXTINF:-1,SP: BEIN SPORT 4 AR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/970
+#EXTINF:-1,SP: BEIN SPORT 5 AR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/971
+#EXTINF:-1,SP: BEIN SPORT 6 AR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/972
+#EXTINF:-1,SP: BEIN SPORT 7 AR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/973
+#EXTINF:-1,SP: BEIN SPORT 8 AR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/974
+#EXTINF:-1,SP: BEIN SPORT 9 AR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/975
+#EXTINF:-1,SP: BEIN SPORT 10 AR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/976
+#EXTINF:-1,SP: NFL NETWORK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/993
+#EXTINF:-1,SP: MLB NETWORK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/994
+#EXTINF:-1,SP: NHL NETWORK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/995
+#EXTINF:-1,SP: STAR SPORTS 1 IN
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1032
+#EXTINF:-1,AR: beIN Sports 12 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1067
+#EXTINF:-1,AR: beIN Sports 13 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1068
+#EXTINF:-1,AR: beIN Sports 14 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1070
+#EXTINF:-1,SP: SKY SPORT 1 DE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1078
+#EXTINF:-1,SP: SKY SPORT 2 DE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1079
+#EXTINF:-1,DE: SKY SPORT NEWS DE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1081
+#EXTINF:-1,SP: DAZN 1 DE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1082
+#EXTINF:-1,SP: FC BAYERN MUNCHEN DE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1083
+#EXTINF:-1,SP: LAZIO CHANNEL IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1084
+#EXTINF:-1,SP: ROMA CHANNEL IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1085
+#EXTINF:-1,SP: SKY SPORT 24 IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1086
+#EXTINF:-1,SP: Super Sport MaXimo
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1108
+#EXTINF:-1,SP: Super Sport Blitz
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1109
+#EXTINF:-1,SP: Arena Sport 1 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1111
+#EXTINF:-1,SP: Arena Sport 2 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1112
+#EXTINF:-1,SP: Arena Sport 3 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1113
+#EXTINF:-1,SP: Arena Sport 4 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1114
+#EXTINF:-1,SP: Arena Sport 5 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1115
+#EXTINF:-1,SP: BEIN SPORT 4 TR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1116
+#EXTINF:-1,SP: TIVIBU SPORT 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1117
+#EXTINF:-1,SP: NBCSN HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1171
+#EXTINF:-1,SP: TEN SP PK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1176
+#EXTINF:-1,SP: SPORT 2 HUNGARY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1177
+#EXTINF:-1,SP: CANAL+ SPORT FR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1178
+#EXTINF:-1,SP: ZIGGO SPORT EXTRA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1179
+#EXTINF:-1,SP: DIGI SPORT 3 HU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1180
+#EXTINF:-1,SP: FOX SPORTS 501 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1183
+#EXTINF:-1,SP: FOX SPORTS 507 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1184
+#EXTINF:-1,SP: TRT SPOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1186
+#EXTINF:-1,SP: DIEMA SPORT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1187
+#EXTINF:-1,SP: DIEMA SPORT 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1188
+#EXTINF:-1,SP: ELEVEN SPORT 1 BL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1189
+#EXTINF:-1,SP: ELEVEN SPORT 2 BL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1190
+#EXTINF:-1,SP: ELEVEN SPORT 3 BL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1191
+#EXTINF:-1,SP: CBC SPORT AZERBAIJAN
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1192
+#EXTINF:-1,SP: FOX SPORTS 1 US
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1193
+#EXTINF:-1,SP: SKY SPORTS COLLECTION IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1208
+#EXTINF:-1,SP: NTV FOOTBALL 1 RU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1209
+#EXTINF:-1,SP: SETANTA SPORT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1210
+#EXTINF:-1,SP: LIVERPOOL FC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1211
+#EXTINF:-1,SP: FOX SPORTS 2 US
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1284
+#EXTINF:-1,SP: TELEFOOT HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1297
+#EXTINF:-1,SP: TELEFOOT STADIUM 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1298
+#EXTINF:-1,SP: TELEFOOT STADIUM 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1301
+#EXTINF:-1,SP: TELEFOOT STADIUM 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1300
+#EXTINF:-1,SP: TELEFOOT STADIUM 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1299
+#EXTINF:-1,SP:: TELEFOOT STADIUM 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1302
+#EXTINF:-1,SP: DIGI SPORT 2 HU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1336
+#EXTINF:-1,SP: DIGI SPORT 1 HU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1337
+#EXTINF:-1,SP: ASTRO CRICKET
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1341
+#EXTINF:-1,SP: TRUE PREMIER FOOTBALL HD 1 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1342
+#EXTINF:-1,SP: TRUE PREMIER FOOTBALL HD 2 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1343
+#EXTINF:-1,SP: TRUE PREMIER FOOTBALL HD 3 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1344
+#EXTINF:-1,SP: TRUE PREMIER FOOTBALL HD 4 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1345
+#EXTINF:-1,SP: TRUE PREMIER FOOTBALL HD 5 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1346
+#EXTINF:-1,SP: TRUE SPORT HD 1 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1347
+#EXTINF:-1,SP: TRUE SPORT HD 2 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1348
+#EXTINF:-1,SP: TRUE SPORT HD 3 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1349
+#EXTINF:-1,SP: TRUE SPORT HD 4 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1350
+#EXTINF:-1,SP: TRUE SPORT HD 5 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1351
+#EXTINF:-1,SP: TRUE SPORT HD 6 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1352
+#EXTINF:-1,SP: TRUE SPORT HD 7 THAI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1353
+#EXTINF:-1,SP: MATCH FOOTBALL 1 RU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1354
+#EXTINF:-1,SP: MATCH FOOTBALL 2 RU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1355
+#EXTINF:-1,SP: MATCH FOOTBALL 3 RU
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1356
+#EXTINF:-1,AR: beIN Sports 11 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1066
+#EXTINF:-1,SP: K SPORT 1 AL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1367
+#EXTINF:-1,SP: K SPORT 2 AL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1368
+#EXTINF:-1,SP: K SPORT 3 AL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1369
+#EXTINF:-1,SP: K SPORT 5 AL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1370
+#EXTINF:-1,SP: SPOR TV 1 BR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1376
+#EXTINF:-1,SP: SPOR TV 2 BR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1377
+#EXTINF:-1,SP: SPOR TV 3 BR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1378
+#EXTINF:-1,SP: BAND SPORTS BR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1379
+#EXTINF:-1,SP: RMC Sport 9 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1380
+#EXTINF:-1,SP: ASTRO SPORTS 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1381
+#EXTINF:-1,SP: ASTRO SPORTS 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1382
+#EXTINF:-1,SP: ASTRO SPORTS 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1383
+#EXTINF:-1,SP: ASTRO SPORTS 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1384
+#EXTINF:-1,SP: TUDN X1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1385
+#EXTINF:-1,SP: TUDN X2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1386
+#EXTINF:-1,SP: TUDN X3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1387
+#EXTINF:-1,SP: TUDN X4 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1388
+#EXTINF:-1,SP: TUDN X5 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1389
+#EXTINF:-1,SP: TUDN X6 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1390
+#EXTINF:-1,SP: TUDN X7 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1391
+#EXTINF:-1,SP: TUDN X8 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1392
+#EXTINF:-1,SP: TUDN X9 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1393
+#EXTINF:-1,SP: TUDN X10 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1394
+#EXTINF:-1,SP: TUDN HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1395
+#EXTINF:-1,SP: MAX SPORTS 1 BG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1396
+#EXTINF:-1,SP: MAX SPORTS 2 BG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1397
+#EXTINF:-1,SP: MAX SPORTS 3 BG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1398
+#EXTINF:-1,SP: MAX SPORTS 4 BG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1399
+#EXTINF:-1,SP: PLANET SPORT 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1416
+#EXTINF:-1,SP: PLANET SPORT 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1417
+#EXTINF:-1,SP: WWE HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1418
+#EXTINF:-1,SP: MUTV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1419
+#EXTINF:-1,SP: BOX NATION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1420
+#EXTINF:-1,SP: MOVISTAR GOLF
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1421
+#EXTINF:-1,SP: MOVISTAR FORMULA 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1422
+#EXTINF:-1,SP: MOVISTAR VAMOS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1423
+#EXTINF:-1,SP: MOVISTAR DEPORTES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1424
+#EXTINF:-1,SP: MOVISTAR LALIGA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1425
+#EXTINF:-1,SP: DAZN 1 ES (LIVE EVENTS)
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1426
+#EXTINF:-1,SP: SUPERTENNIS IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1437
+#EXTINF:-1,SP: S SPORT TR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1442
+#EXTINF:-1,SP: FOX SPORTS LA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1499
+#EXTINF:-1,SP: FOX SPORTS 2 LA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1500
+#EXTINF:-1,SP: FOX SPORTS 3 LA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1501
+#EXTINF:-1,SP: FOX SPORTS PREMIUM CHILE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1502
+#EXTINF:-1,SP: GOL TV LA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1503
+#EXTINF:-1,SP: TIGO SPORTS 1 LA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1504
+#EXTINF:-1,SP: TIGO SPORTS 3 LA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1505
+#EXTINF:-1,SP: TNT SPORTS LA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1506
+#EXTINF:-1,SP: ESPN 2 MX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1507
+#EXTINF:-1,SP: ESPN 3 MX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1508
+#EXTINF:-1,SP: ESPN MX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1509
+#EXTINF:-1,SP: ESPN XTRA MX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1510
+#EXTINF:-1,SP: FOX SPORTS MX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1511
+#EXTINF:-1,SP: FOX SPORTS 1 MX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1512
+#EXTINF:-1,SP: FOX SPORTS 2 MX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1513
+#EXTINF:-1,SP: FOX SPORTS 3 MX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1514
+#EXTINF:-1,SP: ESPN ARG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1515
+#EXTINF:-1,SP: ESPN 2 ARG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1516
+#EXTINF:-1,SP: ESPN 3 ARG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1517
+#EXTINF:-1,SP: ESPN XTRA ARG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1518
+#EXTINF:-1,SP: ELEVEN SPORT 1 PL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1519
+#EXTINF:-1,SP: ELEVEN SPORT 2 PL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1520
+#EXTINF:-1,SP: ELEVEN SPORT 3 PL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1521
+#EXTINF:-1,SP: ELEVEN SPORT 4 PL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1522
+#EXTINF:-1,SP: TV SPORT 1 DK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1523
+#EXTINF:-1,SP: SKY CALCIO 1 IT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1543
+#EXTINF:-1,SP: S SPORT 2 TR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1544
+#EXTINF:-1,SP: DAZN 2 DE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1545
+#EXTINF:-1,SP: BEIN SPORT 1 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1573
+#EXTINF:-1,SP: BEIN SPORT 2 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1574
+#EXTINF:-1,SP: BEIN SPORT 3 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1575
+#EXTINF:-1,SP: BEIN SPORT 4 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1576
+#EXTINF:-1,SP: BEIN SPORT 5 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1577
+#EXTINF:-1,SP: BEIN SPORT 6 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1578
+#EXTINF:-1,SP: BEIN SPORT 7 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1579
+#EXTINF:-1,SP: BEIN SPORT 8 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1580
+#EXTINF:-1,SP: BEIN SPORT 9 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1581
+#EXTINF:-1,SP: BEIN SPORT 10 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1582
+#EXTINF:-1,SP: BEIN SPORT 11 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1583
+#EXTINF:-1,SP: BEIN SPORT 12 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1584
+#EXTINF:-1,SP: BEIN SPORT 13 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1585
+#EXTINF:-1,SP: BEIN SPORT 14 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1586
+#EXTINF:-1,SP: BEIN SPORT 15 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1587
+#EXTINF:-1,SP: BEIN SPORT 16 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1588
+#EXTINF:-1,SP: PLANET SPORT 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1589
+#EXTINF:-1,SP: PLANET SPORT 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1590
+#EXTINF:-1,SP: SPORT KLUB 1 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1591
+#EXTINF:-1,SP: SPORT KLUB 2 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1592
+#EXTINF:-1,SP: SPORT KLUB 3 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1593
+#EXTINF:-1,SP: SPORT KLUB 4 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1594
+#EXTINF:-1,SP: SPORT KLUB 5 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1595
+#EXTINF:-1,SP: SPORT KLUB 6 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1596
+#EXTINF:-1,SP: SPORT KLUB 7 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1597
+#EXTINF:-1,SP: SPORT KLUB 8 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1598
+#EXTINF:-1,SP: SPORT KLUB 9 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1599
+#EXTINF:-1,SP: SPORT KLUB 10 HR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1600
+#EXTINF:-1,SP: RUSH
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1601
+#EXTINF:-1,SP: FLOW SPORTS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1602
+#EXTINF:-1,SP: ELEVEN SPORTS US
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1616
+#EXTINF:-1,SP: ESPN 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1617
+#EXTINF:-1,SP: ESPN DEPORTES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1618
+#EXTINF:-1,SP: ESPN U
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1619
+#EXTINF:-1,SP: SEC ESPN NETWORK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1626
+#EXTINF:-1,SP: ADJARA SPORT TV PL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1634
+#EXTINF:-1,SP: BT SPORT 1 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1651
+#EXTINF:-1,SP: BT SPORT 2 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1652
+#EXTINF:-1,SP: BT SPORT 3 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1653
+#EXTINF:-1,SP: BT SPORT ESPN FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1654
+#EXTINF:-1,SP: SKY SPORTS PREMIER LEAGUE FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1655
+#EXTINF:-1,SP: SKY SPORTS MAIN EVENT FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1656
+#EXTINF:-1,SP: SKY SPORTS FOOTBALL FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1657
+#EXTINF:-1,SP: SKY SPORTS CRICKET FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1658
+#EXTINF:-1,SP: SKY SPORTS ACTION FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1659
+#EXTINF:-1,SP: SKY SPORTS GOLF FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1660
+#EXTINF:-1,SP: SKY SPORTS F1 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1661
+#EXTINF:-1,SP: SKY SPORTS ARENA FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1662
+#EXTINF:-1,SP: SKY SPORTS RACING FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1663
+#EXTINF:-1,SP: SPORT DIGITAL DE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1693
+#EXTINF:-1,PK: PTV SPORTS HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/2
+#EXTINF:-1,PK: GEO NEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/466
+#EXTINF:-1,PK: EXPRESS ENTERTAINMENT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/467
+#EXTINF:-1,PK: EXPRESS NEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/468
+#EXTINF:-1,PK: 92 NEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/469
+#EXTINF:-1,PK: HUM TV HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/470
+#EXTINF:-1,PK: HUM NEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/471
+#EXTINF:-1,PK: PTV HOME
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/472
+#EXTINF:-1,PK: PTV GLOBAL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/473
+#EXTINF:-1,PK: PTV NATIONAL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/474
+#EXTINF:-1,PK: ARY FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/475
+#EXTINF:-1,PK: DAWN NEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/476
+#EXTINF:-1,PK: HUM MASALA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/478
+#EXTINF:-1,PK: ARY NEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/479
+#EXTINF:-1,PK: LAHORE NEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/480
+#EXTINF:-1,PK: FILM WORLD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/482
+#EXTINF:-1,PK: CITY 24
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/483
+#EXTINF:-1,PK: PTV NEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/484
+#EXTINF:-1,PK: ZINDAGI TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/486
+#EXTINF:-1,PK: CHANNEL 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/487
+#EXTINF:-1,PK: AJJ ENTERTAINMENT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/489
+#EXTINF:-1,PK: TV ONE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/492
+#EXTINF:-1,PK: GNN NEWS HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/547
+#EXTINF:-1,PK: ARY NEWS HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/772
+#EXTINF:-1,PK: ARY ZINDAGI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/773
+#EXTINF:-1,PK: ARY DIGITAL HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/774
+#EXTINF:-1,PK: BOL NEWS TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/988
+#EXTINF:-1,PK: SAMAA NEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/989
+#EXTINF:-1,PK: NEO NEWS HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/992
+#EXTINF:-1,PK: Hum Sitary
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1040
+#EXTINF:-1,PK: HUM World
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1041
+#EXTINF:-1,PK: Urdu1 TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1061
+#EXTINF:-1,PK: Geo Tv
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1062
+#EXTINF:-1,PK: GEO KAHANI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1063
+#EXTINF:-1,PK: A Plus
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1064
+#EXTINF:-1,PK: Stage Drama
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1065
+#EXTINF:-1,PK: DUNIYA NEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1069
+#EXTINF:-1,PK: Public News
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1072
+#EXTINF:-1,PK:24 NEWS HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1106
+#EXTINF:-1,PK: ABB TAK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1107
+#EXTINF:-1,PK: BOL ENTERTAINMENT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1126
+#EXTINF:-1,PK: ARY QTV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1161
+#EXTINF:-1,PK: Such TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1162
+#EXTINF:-1,PK: News One
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1163
+#EXTINF:-1,PK: Ary Zauq
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1165
+#EXTINF:-1,PK: Ary Musik
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1166
+#EXTINF:-1,IN: COLORS FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/6
+#EXTINF:-1,IN: COLORS Europe
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/7
+#EXTINF:-1,IN: STAR GOLD FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/8
+#EXTINF:-1,IN: STAR GOLD UK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/9
+#EXTINF:-1,IN: STAR PLUS FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/10
+#EXTINF:-1,IN: Sony Ten 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/4
+#EXTINF:-1,IN: Sony Six Hd
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/3
+#EXTINF:-1,IN: ZEE BOLLIWOOD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/477
+#EXTINF:-1,IN: ZEE TV UK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/747
+#EXTINF:-1,IN: ABP NEWS HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1033
+#EXTINF:-1,IN: Zee Cinema
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1034
+#EXTINF:-1,IN: ZEE CINEMA UK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1035
+#EXTINF:-1,IN: COLORS RISHTEY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1036
+#EXTINF:-1,IN: COLORS HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1037
+#EXTINF:-1,IN: Discovery HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1038
+#EXTINF:-1,IN: Discovery HINDI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1039
+#EXTINF:-1,IN: STAR BHART
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1042
+#EXTINF:-1,IN: MBC Bollywood HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1043
+#EXTINF:-1,IN: SAB TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1044
+#EXTINF:-1,IN: Set Max
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1045
+#EXTINF:-1,IN: Sony Entertainment HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1046
+#EXTINF:-1,IN: SONY HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1047
+#EXTINF:-1,IN: SONY MAX HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1048
+#EXTINF:-1,IN: SONY PIX HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1049
+#EXTINF:-1,IN: SONY SAB HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1050
+#EXTINF:-1,IN: SONY YAY HINDI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1051
+#EXTINF:-1,IN: Sony TV Asia HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1052
+#EXTINF:-1,IN: SONY TV UK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1053
+#EXTINF:-1,IN: Star Gold Select HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1054
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1056
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1057
+#EXTINF:-1,IN: STAR SPORTS 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1058
+#EXTINF:-1,IN: STAR SPORT 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1059
+#EXTINF:-1,IN: & TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1123
+#EXTINF:-1,IN: B4U Movies
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1124
+#EXTINF:-1,IN: B4U Plus
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1125
+#EXTINF:-1,IN: Sony TEN 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1174
+#EXTINF:-1,IN: SONY TEN 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1181
+#EXTINF:-1,UK: ITV 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/437
+#EXTINF:-1,UK: ITV 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/438
+#EXTINF:-1,UK: ITV 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/439
+#EXTINF:-1,UK: FRANCE 24
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/441
+#EXTINF:-1,UK: SONY MOVIES ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/442
+#EXTINF:-1,UK: RTE TWO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/621
+#EXTINF:-1,UK: RTE ONE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/620
+#EXTINF:-1,UK: ITV 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/619
+#EXTINF:-1,UK: BBC FOUR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/618
+#EXTINF:-1,UK: BBC THREE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/617
+#EXTINF:-1,UK: BBC TWO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/616
+#EXTINF:-1,UK: BBC ONE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/615
+#EXTINF:-1,UK: CHANNEL 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/622
+#EXTINF:-1,UK: TLC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/623
+#EXTINF:-1,UK: SYFY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/624
+#EXTINF:-1,UK: FOX HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/625
+#EXTINF:-1,UK: TCM MOVIES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/626
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/627
+#EXTINF:-1,UK: SKY ONE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/628
+#EXTINF:-1,UK: SKY TWO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/629
+#EXTINF:-1,UK: SKY ATLACTIC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/630
+#EXTINF:-1,UK: SKY CINEMA PREMIER HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/631
+#EXTINF:-1,UK: SKY CINEMA COMEDY HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/632
+#EXTINF:-1,UK: SKY CINEMA DRAMA & ROMANCE HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/633
+#EXTINF:-1,UK: SKY CINEMA CRIME & THRILLER HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/634
+#EXTINF:-1,UK: SKY CINEMA GREATS HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/635
+#EXTINF:-1,UK: SKY CINEMA SCI-FI & HORROR HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/636
+#EXTINF:-1,UK: SKY CINEMA SELECT HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/637
+#EXTINF:-1,UK: DISNEY JUNIOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/638
+#EXTINF:-1,UK: CARTOONITO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/639
+#EXTINF:-1,UK: NICKELODEON
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/640
+#EXTINF:-1,UK: NICKTOONS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/641
+#EXTINF:-1,UK: BOOMERANG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/642
+#EXTINF:-1,UK: BABY TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/643
+#EXTINF:-1,UK: MTV MUSIC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/644
+#EXTINF:-1,UK: MTV HITS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/645
+#EXTINF:-1,UK: CBS ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/646
+#EXTINF:-1,UK: CBS DRAMA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/647
+#EXTINF:-1,UK: HBO COMEDY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/648
+#EXTINF:-1,UK: SKY SPORTS MAIN
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/748
+#EXTINF:-1,UK: SKY SPORTS CRICKET
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/749
+#EXTINF:-1,UK: SKY SPORTS ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/750
+#EXTINF:-1,UK: SKY SPORTS GOLF
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/751
+#EXTINF:-1,UK: SKY SPORTS ARENA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/752
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/753
+#EXTINF:-1,UK: SKY SPORTS MIX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/757
+#EXTINF:-1,UK: SKY SPORTS F1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/758
+#EXTINF:-1,UK: SKY SPORTS BOX OFFICE PPV (LIVE DURING BOXING MATCH)
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/759
+#EXTINF:-1,UK: BOX OFFICE 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/760
+#EXTINF:-1,UK: BOX OFFICE 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/761
+#EXTINF:-1,UK: BOX OFFICE 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/762
+#EXTINF:-1,UK: BOX OFFICE 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/763
+#EXTINF:-1,UK: BOX OFFICE 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/764
+#EXTINF:-1,UK: BOX OFFICE 6
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/765
+#EXTINF:-1,UK: BT SPORTS 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/766
+#EXTINF:-1,UK: BT SPORTS 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/767
+#EXTINF:-1,UK: BT SPORTS 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/768
+#EXTINF:-1,UK: BT SPORTS ESPN HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/769
+#EXTINF:-1,UK: BT SPORTS EXTRA 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/770
+#EXTINF:-1,UK: EIR SPORT 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/895
+#EXTINF:-1,UK: EIR SPORT 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/896
+#EXTINF:-1,UK: PREMIER SPORTS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/897
+#EXTINF:-1,UK: RACING UK HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/898
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/899
+#EXTINF:-1,UK: SKY NEWS TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/987
+#EXTINF:-1,UK: CELTIC TV (MATCH TIME)
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1071
+#EXTINF:-1,UK: BOX OFFICE 7
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1119
+#EXTINF:-1,UK: BOX OFFICE 8
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1120
+#EXTINF:-1,UK: BOX OFFICE 9
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1121
+#EXTINF:-1,UK: BOX OFFICE 10
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1122
+#EXTINF:-1,UK: FREESPORTS | UHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1164
+#EXTINF:-1,UK: PREMIER SPORTS 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1185
+#EXTINF:-1,UK: VIRGIN MEDIA ONE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1664
+#EXTINF:-1,UK: VIRGIN MEDIA TWO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1665
+#EXTINF:-1,UK: MORE 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1666
+#EXTINF:-1,UK: 5 STAR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1667
+#EXTINF:-1,UK: DISNEY XD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1668
+#EXTINF:-1,UK: NICK JR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1669
+#EXTINF:-1,UK: TINY POP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1670
+#EXTINF:-1,UK: DISCOVERY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1671
+#EXTINF:-1,UK: DISCOVERY SCIENCE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1672
+#EXTINF:-1,UK: DISCOVERY TURBO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1673
+#EXTINF:-1,UK: DMAX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1674
+#EXTINF:-1,UK: NAT GEO WILD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1675
+#EXTINF:-1,UK: ANIMAL PLANET
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1676
+#EXTINF:-1,UK: CRIME & INVESTIGATION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1677
+#EXTINF:-1,UK: FOOD NETWORK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1678
+#EXTINF:-1,IT: RAI 4 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/444
+#EXTINF:-1,IT: RAI 5 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/445
+#EXTINF:-1,IT: RAI GULP HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/446
+#EXTINF:-1,IT: RAI MOVIE HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/447
+#EXTINF:-1,IT: RAI PREMIUM HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/448
+#EXTINF:-1,IT: RAI YOYO HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/449
+#EXTINF:-1,IT: IRIS MEDIASET
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/450
+#EXTINF:-1,IT: RAI 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/498
+#EXTINF:-1,IT: RAI 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/500
+#EXTINF:-1,IT: RAI 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/501
+#EXTINF:-1,IT: ITALIA 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/503
+#EXTINF:-1,IT: CIELO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/505
+#EXTINF:-1,IT: TV 8
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/506
+#EXTINF:-1,IT: BOING
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/507
+#EXTINF:-1,IT: FOCUS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/508
+#EXTINF:-1,IT: RETE 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/509
+#EXTINF:-1,IT: CANALE 5 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/511
+#EXTINF:-1,IT: CARTOONITO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/512
+#EXTINF:-1,IT: MEDIASET EXTRA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/515
+#EXTINF:-1,IT: RSI LA 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/883
+#EXTINF:-1,IT: RSI LA 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/884
+#EXTINF:-1,IT: FOCUS!
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/885
+#EXTINF:-1,IT: SKY CINEMA UNO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/886
+#EXTINF:-1,IT: SKY CINEMA DUE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/887
+#EXTINF:-1,IT: SKY CINEMA DRAMA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/888
+#EXTINF:-1,IT: SKY CINEMA ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/889
+#EXTINF:-1,IT: SKY CINEMA FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/890
+#EXTINF:-1,IT: SKY CINEMA SUSPENSE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/891
+#EXTINF:-1,IT: SKY CINEMA COMEDY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/892
+#EXTINF:-1,IT: SKY CINEMA ROMANCE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/893
+#EXTINF:-1,IT: SKY ATLANTIC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/894
+#EXTINF:-1,IT: FOX CRIME
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/900
+#EXTINF:-1,IT: FOX HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/901
+#EXTINF:-1,IT: FOX LIFE HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/902
+#EXTINF:-1,IT: SKY UNO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/903
+#EXTINF:-1,IT: NAT GEOGRAPHICS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/904
+#EXTINF:-1,IT: ANIMAL PLANET
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/905
+#EXTINF:-1,IT: PREMIUM CINEMA HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/914
+#EXTINF:-1,IT: PREMIUM CINEMA ACTION HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/915
+#EXTINF:-1,IT: PREMIUM CINEMA COMEDY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/916
+#EXTINF:-1,IT: PREMIUM CINEMA EMOTION HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/917
+#EXTINF:-1,IT: PREMIUM CINEMA ENERGY HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/918
+#EXTINF:-1,IT: PREMIUM CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1098
+#EXTINF:-1,IT: PRIMAFILA 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1427
+#EXTINF:-1,IT: PRIMAFILA 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1428
+#EXTINF:-1,IT: PRIMAFILA 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1429
+#EXTINF:-1,IT: PRIMAFILA 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1430
+#EXTINF:-1,IT: PRIMAFILA 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1431
+#EXTINF:-1,IT: PRIMAFILA 6
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1432
+#EXTINF:-1,IT: PRIMAFILA 7
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1433
+#EXTINF:-1,IT: PRIMAFILA 8
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1434
+#EXTINF:-1,IT: PRIMAFILA 9
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1435
+#EXTINF:-1,IT: PRIMAFILA 10
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1436
+#EXTINF:-1,TR: TRT TURK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/451
+#EXTINF:-1,TR: TRT WORLD HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/452
+#EXTINF:-1,TR: TRT SPOR HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/453
+#EXTINF:-1,TR: TRT MUZIK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/454
+#EXTINF:-1,TR: TRT HABER
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/455
+#EXTINF:-1,TR: TRT AVAZ
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/456
+#EXTINF:-1,TR: TGRT BELGESEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/457
+#EXTINF:-1,TR: TGRT HABER
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/458
+#EXTINF:-1,TR: TV8
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/459
+#EXTINF:-1,TR: SHOW TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/460
+#EXTINF:-1,TR: STAR TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/461
+#EXTINF:-1,TR: POWER TURK HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/462
+#EXTINF:-1,TR: POWER TV HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/463
+#EXTINF:-1,TR: REHBER TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/464
+#EXTINF:-1,TR: BURSA TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/465
+#EXTINF:-1,TR: TRT 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/575
+#EXTINF:-1,TR: KANAL 7 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/576
+#EXTINF:-1,TR: ATV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/577
+#EXTINF:-1,TR: FOX HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/578
+#EXTINF:-1,TR: DMAX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/579
+#EXTINF:-1,TR: BLOOMBERG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/580
+#EXTINF:-1,TR: NTV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/581
+#EXTINF:-1,TR: HABER GLOBAL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/582
+#EXTINF:-1,TR: NATIONAL GEOGRAPHIC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/592
+#EXTINF:-1,TR: NAT GEO PEOPLE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/593
+#EXTINF:-1,TR: NAT GEO WILD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/594
+#EXTINF:-1,TR: DISCOVERY HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/595
+#EXTINF:-1,TR: ANIMAL PLANET HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/596
+#EXTINF:-1,TR: NICK JUNIOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/597
+#EXTINF:-1,TR: BABY TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/598
+#EXTINF:-1,TR: MINIKA COCUK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/599
+#EXTINF:-1,TR: MINIKA GO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/600
+#EXTINF:-1,TR: DISNEY JUNIOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/601
+#EXTINF:-1,TR: BEIN SERIES SCI-FI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/602
+#EXTINF:-1,TR: BEIN BOX OFFICE 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1438
+#EXTINF:-1,TR: BEIN BOX OFFICE 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1439
+#EXTINF:-1,TR: BEIN BOX OFFICE 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1440
+#EXTINF:-1,TR: HALK TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1441
+#EXTINF:-1,TR: TV5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1569
+#EXTINF:-1,TR: SKY TURK 360
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1570
+#EXTINF:-1,TR: NR1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1571
+#EXTINF:-1,TR: BBC EARTH
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1572
+#EXTINF:-1,PL: TVP 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/520
+#EXTINF:-1,PL: TVN HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/528
+#EXTINF:-1,PL: TVN 24
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/531
+#EXTINF:-1,PL: POLSAT HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/532
+#EXTINF:-1,PL: POLSAT 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/533
+#EXTINF:-1,PL: AXN HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/534
+#EXTINF:-1,PL: AXN BLACK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/536
+#EXTINF:-1,PL: AXN WHITE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/538
+#EXTINF:-1,PL: AXN SPIN
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/540
+#EXTINF:-1,PL: POLSAT CAFE HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/541
+#EXTINF:-1,PL: POLSAT NEWS HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/542
+#EXTINF:-1,PL: POLSAT PLAY HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/543
+#EXTINF:-1,PL: POLSAT FILM HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/544
+#EXTINF:-1,PL: POLSAT MUSIC HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/545
+#EXTINF:-1,PL: POLSAT DOKU HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/546
+#EXTINF:-1,PL: POLSAT VIASAT HISTORY HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/548
+#EXTINF:-1,PL: POLSAT VIASAT NATURE HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/549
+#EXTINF:-1,PL: CANAL+ FILM HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/554
+#EXTINF:-1,PL: FOX HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/555
+#EXTINF:-1,PL: HBO 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/556
+#EXTINF:-1,PL: HBO 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/557
+#EXTINF:-1,PL: HBO 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/558
+#EXTINF:-1,PL: FILMBOX ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/559
+#EXTINF:-1,PL: FILMBOX FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/560
+#EXTINF:-1,PL: FILMBOX PREMIUM HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/561
+#EXTINF:-1,PL: FOX COMEDY HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/562
+#EXTINF:-1,PL: NICKTOONS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/563
+#EXTINF:-1,PL: NICKELODEON HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/564
+#EXTINF:-1,PL: BOOMERANG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/565
+#EXTINF:-1,PL: NICK JR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/566
+#EXTINF:-1,PL: DISNEY JUNIOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/567
+#EXTINF:-1,PL: COMEDY CENTRAL HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/568
+#EXTINF:-1,PL: DISCOVERY SCIENCE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/569
+#EXTINF:-1,PL: DISCOVERY LIFE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/570
+#EXTINF:-1,PL: DISCOVERY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/571
+#EXTINF:-1,PL: NATIONAL GEOGRAPHICS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/572
+#EXTINF:-1,PL: NAT GEO WILD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/573
+#EXTINF:-1,PL: HISTORY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/574
+#EXTINF:-1,PL: CANAL+ FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/710
+#EXTINF:-1,PL: CANAL+ FILM
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/711
+#EXTINF:-1,PL: CANAL+ SERIALE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/712
+#EXTINF:-1,GR: Discovery Channel FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/667
+#EXTINF:-1,GR: Discovery Science HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/668
+#EXTINF:-1,GR: Discovery Showcase
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/669
+#EXTINF:-1,GR: Disney Channel
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/670
+#EXTINF:-1,GR: Disney Junior
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/671
+#EXTINF:-1,GR: Disney XD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/672
+#EXTINF:-1,GR: NAT GEO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/673
+#EXTINF:-1,GR: NAT GEO Wild FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/674
+#EXTINF:-1,GR: Nova Cinema 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/675
+#EXTINF:-1,GR: Nova Cinema 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/676
+#EXTINF:-1,GR: Nova Cinema 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/677
+#EXTINF:-1,GR: NOVA CINEMA 4 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/678
+#EXTINF:-1,GR: NOVA CINEMA ACTION HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/679
+#EXTINF:-1,GR: Nova Premiere 1 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/680
+#EXTINF:-1,GR: NOVA PREMIERE 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/681
+#EXTINF:-1,GR: NOVA Premiere 3 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/682
+#EXTINF:-1,GR: NOVA Premiere 4 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/683
+#EXTINF:-1,GR: Nova Premiere 5 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/684
+#EXTINF:-1,GR: NOVA SPORTS 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/685
+#EXTINF:-1,GR: OTE CINEMA 1 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/687
+#EXTINF:-1,GR: OTE CINEMA 2 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/688
+#EXTINF:-1,GR: OTE CINEMA 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/689
+#EXTINF:-1,GR: OTE SERIES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/690
+#EXTINF:-1,GR: OTE SPORT 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/691
+#EXTINF:-1,GR: OTE SPORT 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/692
+#EXTINF:-1,GR: OTE SPORT 3 FHD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/693
+#EXTINF:-1,GR: OTE SPORT 4 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/694
+#EXTINF:-1,GR: OTE SPORT 5 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/695
+#EXTINF:-1,GR: OTE SPORT 6 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/696
+#EXTINF:-1,GR: OTE SPORT 7 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/697
+#EXTINF:-1,GR: OTE SPORT 8 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/698
+#EXTINF:-1,GR: OTE SPORT 9 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/699
+#EXTINF:-1,GR: NOVA SPORTS 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1338
+#EXTINF:-1,GR: NOVA SPORTS  4 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1340
+#EXTINF:-1,GR: NOVA SPORTS 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1339
+#EXTINF:-1,DE: 3SAT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/718
+#EXTINF:-1,DE: ZDF HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/719
+#EXTINF:-1,DE: ZDF NEO HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/720
+#EXTINF:-1,DE: SAT 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/721
+#EXTINF:-1,DE: SAT 1 GOLD HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/722
+#EXTINF:-1,DE: VOX HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/723
+#EXTINF:-1,De: RTL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/724
+#EXTINF:-1,DE: RTL ZWEI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/725
+#EXTINF:-1,DE: SUPER RTL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/726
+#EXTINF:-1,DE: RTL NITRO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/727
+#EXTINF:-1,DE: RTL PASSION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/728
+#EXTINF:-1,DE: RTL CRIME
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/729
+#EXTINF:-1,DE: ORF 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/730
+#EXTINF:-1,DE: ORF 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/731
+#EXTINF:-1,DE: DMAX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/732
+#EXTINF:-1,DE: UNIVERSAL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/733
+#EXTINF:-1,DE: KABEL 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/734
+#EXTINF:-1,DE: NDR HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/735
+#EXTINF:-1,DE: SKY ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/736
+#EXTINF:-1,DE: SKY COMEDY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/737
+#EXTINF:-1,DE: SKY KRIMI
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/738
+#EXTINF:-1,DE: FOX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/739
+#EXTINF:-1,DE: SKY ATLANTIC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/740
+#EXTINF:-1,DE: SYFY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/741
+#EXTINF:-1,DE: SKY CINEMA 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/742
+#EXTINF:-1,DE: SKY CINEMA 24
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/743
+#EXTINF:-1,DE: SKY EMOTIONS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/744
+#EXTINF:-1,DE: SKY FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/745
+#EXTINF:-1,DE: SKY HITS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/746
+#EXTINF:-1,DE: NAT GEOGRAPHICS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/754
+#EXTINF:-1,DE: DISCOVERY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/755
+#EXTINF:-1,DE: HISTORY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/756
+#EXTINF:-1,DE: SKY SELECT 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1073
+#EXTINF:-1,DE: SKY SELECT 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1074
+#EXTINF:-1,DE: SKY SELECT 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1075
+#EXTINF:-1,DE: SKY SELECT 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1076
+#EXTINF:-1,DE: SKY SELECT 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1077
+#EXTINF:-1,SP: SKY SPORT AUSTRIA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1080
+#EXTINF:-1,NL: NPO 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/775
+#EXTINF:-1,NL: NPO 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/776
+#EXTINF:-1,NL: NPO 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/777
+#EXTINF:-1,NL: RTL 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/778
+#EXTINF:-1,NL: RTL 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/779
+#EXTINF:-1,NL: NET 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/780
+#EXTINF:-1,NL: SBS 6
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/781
+#EXTINF:-1,NL: RTL 7
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/782
+#EXTINF:-1,NL: RTL 8
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/783
+#EXTINF:-1,NL: SBS 9
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/784
+#EXTINF:-1,NL: VERONICA HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/785
+#EXTINF:-1,NL: RTL Z
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/786
+#EXTINF:-1,NL: RTL LOUNGE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/787
+#EXTINF:-1,NL: RTL CRIME
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/788
+#EXTINF:-1,NL: RTL TELEKIDS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/789
+#EXTINF:-1,NL: FOX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/790
+#EXTINF:-1,NL: SPIKE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/791
+#EXTINF:-1,NL: NICK JR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/792
+#EXTINF:-1,NL: DISNEY JUNIOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/793
+#EXTINF:-1,NL: CARTOON NETWORK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/794
+#EXTINF:-1,NL: PEDDLE TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/795
+#EXTINF:-1,NL: BABY TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/796
+#EXTINF:-1,NL: NICKELODEON
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/797
+#EXTINF:-1,NL: DISNEY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/798
+#EXTINF:-1,NL: BOOMERANG
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/799
+#EXTINF:-1,NL: FILM 1 ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/800
+#EXTINF:-1,NL: FILM 1 FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/801
+#EXTINF:-1,NL: FILM 1 PREMIERE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/802
+#EXTINF:-1,NL: NATIONAL GEOGRAPHICS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/803
+#EXTINF:-1,NL: NAT GEO WILD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/804
+#EXTINF:-1,NL: HISTORY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/805
+#EXTINF:-1,NL: DISCOVERY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/806
+#EXTINF:-1,NL: DISCOVERY INVESTIGATION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/807
+#EXTINF:-1,ES: LA 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/810
+#EXTINF:-1,ES: LA 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/811
+#EXTINF:-1,ES: COSMO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/812
+#EXTINF:-1,ES: FDF
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/813
+#EXTINF:-1,ES: CUATRO HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/814
+#EXTINF:-1,ES: LA SEXTA HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/815
+#EXTINF:-1,ES: FOX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/816
+#EXTINF:-1,ES: SYFY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/817
+#EXTINF:-1,ES: CAZA E PESCA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/818
+#EXTINF:-1,ES: HOLLYWOOD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/819
+#EXTINF:-1,ES: CALLE 13
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/820
+#EXTINF:-1,ES: AXN
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/821
+#EXTINF:-1,ES: AXN WHITE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/822
+#EXTINF:-1,ES: CANAL ACCION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/823
+#EXTINF:-1,ES: CANAL DRAMA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/824
+#EXTINF:-1,ES: MOVISTAR COMEDIA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/825
+#EXTINF:-1,ES: MOVISTAR SERIES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/826
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/827
+#EXTINF:-1,ES: NICKELODEON
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/828
+#EXTINF:-1,ES: PANDA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/829
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/830
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/831
+#EXTINF:-1,ES: CARTOON NETWORK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/832
+#EXTINF:-1,ES: BOING
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/833
+#EXTINF:-1,ES: BABY TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/834
+#EXTINF:-1,ES: CRIME & INVESTIGATION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/835
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/836
+#EXTINF:-1,ES: NATIONAL GEOGRAPHICS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/837
+#EXTINF:-1,ES: NAT GEO WILD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/838
+#EXTINF:-1,ES: HISTORIA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/839
+#EXTINF:-1,ES: TAQUILLA 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/840
+#EXTINF:-1,ES: TAQUILLA 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/841
+#EXTINF:-1,ES: TAQUILLA 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/842
+#EXTINF:-1,ES: TAQUILLA 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/843
+#EXTINF:-1,ES: TAQUILLA 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/844
+#EXTINF:-1,FR: NATIONAL GEOGRAPHICS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/950
+#EXTINF:-1,ES: LOGOS KIDS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1443
+#EXTINF:-1,ES: LOGOS TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1444
+#EXTINF:-1,ES: TELECINCO HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1445
+#EXTINF:-1,ES: ANTENNA 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1446
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1447
+#EXTINF:-1,ES: DIVINITY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1448
+#EXTINF:-1,ES: ENERGY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1449
+#EXTINF:-1,ES: FOX LIFE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1450
+#EXTINF:-1,ES: A HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1451
+#EXTINF:-1,ES: AMC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1689
+#EXTINF:-1,ES: CANAL TOROS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1690
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1691
+#EXTINF:-1,ES: VIAJAR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1692
+#EXTINF:-1,EX-YU: PINK TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/864
+#EXTINF:-1,EX-YU: PINK Music
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/865
+#EXTINF:-1,EX-YU: PINK 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/866
+#EXTINF:-1,EX-YU: PINK FOLK 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/867
+#EXTINF:-1,EX-YU: PINK FOLK 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/868
+#EXTINF:-1,EX-YU: PINK FILM
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/869
+#EXTINF:-1,EX-YU: PINK FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/870
+#EXTINF:-1,EX-YU: PINK CLASSIC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/871
+#EXTINF:-1,EX-YU: PINK MOVIES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/872
+#EXTINF:-1,EX-YU: PINK HITS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/873
+#EXTINF:-1,EX-YU: PINK CRIME & MYSTERY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/874
+#EXTINF:-1,EX-YU: PINK PREMIUM
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/875
+#EXTINF:-1,EX-YU: PINK ROMANCE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/876
+#EXTINF:-1,EX-YU: PINK SCI-FI & FANTASY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/877
+#EXTINF:-1,EX-YU: PINK THRILLER
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/878
+#EXTINF:-1,EX-YU: HRT 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/977
+#EXTINF:-1,EX-YU: HRT 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/978
+#EXTINF:-1,EX-YU: HRT 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/979
+#EXTINF:-1,EX-YU: HRT 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/980
+#EXTINF:-1,EX-YU: RTL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/981
+#EXTINF:-1,EX-YU: RTL 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/982
+#EXTINF:-1,EX-YU: RTL CRIME
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/983
+#EXTINF:-1,EX-YU: RTL LIVING
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/984
+#EXTINF:-1,EX-YU: FOX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/985
+#EXTINF:-1,EX-YU: FOX MOVIES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/986
+#EXTINF:-1,FR: TELETOON
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1307
+#EXTINF:-1,FR: FRANCE O
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/924
+#EXTINF:-1,FR: FRANCE 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/925
+#EXTINF:-1,FR: FRANCE 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/926
+#EXTINF:-1,FR: FRANCE 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/927
+#EXTINF:-1,FR: M6
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/928
+#EXTINF:-1,FR: W9
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/929
+#EXTINF:-1,FR: TF1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/930
+#EXTINF:-1,FR: AB1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/931
+#EXTINF:-1,FR: 6TER
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/932
+#EXTINF:-1,FR: MANGAS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/933
+#EXTINF:-1,FR: CANAL J
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/934
+#EXTINF:-1,FR: ANIMAUX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/935
+#EXTINF:-1,FR: BFM TV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/936
+#EXTINF:-1,FR: FRANCE 24
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/937
+#EXTINF:-1,FR: M6 MUSIC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/938
+#EXTINF:-1,FR: EURONEWS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/939
+#EXTINF:-1,FR: CANAL CINEMA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/940
+#EXTINF:-1,FR: CANAL DECALE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/941
+#EXTINF:-1,FR: CANAL SERIES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/942
+#EXTINF:-1,FR: CANAL FAMIZ
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/943
+#EXTINF:-1,FR: CINE PREMIERE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/944
+#EXTINF:-1,FR: CANAL HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/945
+#EXTINF:-1,FR: CINE CLASSIC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/946
+#EXTINF:-1,FR: DISNEY JUNIOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/947
+#EXTINF:-1,FR: ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/948
+#EXTINF:-1,FR: EQUIPE 21
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/949
+#EXTINF:-1,FR: DISCOVERY SCIENCE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/951
+#EXTINF:-1,FR: CINE POLAR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/952
+#EXTINF:-1,FR: OCS CITY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/953
+#EXTINF:-1,FR: OCS MAX
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/954
+#EXTINF:-1,FR: A LA CARTE 1
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/960
+#EXTINF:-1,FR: A LA CARTE 2
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/961
+#EXTINF:-1,FR: A LA CARTE 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/962
+#EXTINF:-1,FR: A LA CARTE 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/963
+#EXTINF:-1,FR: A LA CARTE 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/964
+#EXTINF:-1,FR: A LA CARTE 6
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/965
+#EXTINF:-1,FR: A LA CARTE 7
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/966
+#EXTINF:-1,FR: OCS GEANTS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1303
+#EXTINF:-1,FR: OCS CHOC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1304
+#EXTINF:-1,FR: NICKELODEON TEEN
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1305
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1306
+#EXTINF:-1,FR: CARTOON NETWORK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1308
+#EXTINF:-1,FR: HISTORIE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1309
+#EXTINF:-1,FR: NAT GEO WILD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1310
+#EXTINF:-1,FR: DISCOVERY FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1311
+#EXTINF:-1,FR: PLANETE+
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1312
+#EXTINF:-1,FR: PLANETE+ C&I
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1313
+#EXTINF:-1,FR: POLAR+
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1314
+#EXTINF:-1,FR: SYFY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1315
+#EXTINF:-1,Fr: TCM CINEMA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1316
+#EXTINF:-1,FR: DISNEY CINEMA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1317
+#EXTINF:-1,FR: CINE+ CLASSIC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1318
+#EXTINF:-1,FR: TF1 SERIES FILMS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1635
+#EXTINF:-1,FR: CANAL FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1636
+#EXTINF:-1,FR: CANAL+ SPORT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1637
+#EXTINF:-1,FR: CINE EMOTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1638
+#EXTINF:-1,FR: CINE FRISSON
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1639
+#EXTINF:-1,FR: CINE PREMIER
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1640
+#EXTINF:-1,FR: C8
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1641
+#EXTINF:-1,FR: COMEDIE+
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1642
+#EXTINF:-1,FR: CRIME DISTRICT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1643
+#EXTINF:-1,FR: CHERIE 25
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1644
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1645
+#EXTINF:-1,FR: J-ONE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1646
+#EXTINF:-1,FR: MTV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1647
+#EXTINF:-1,FR: MTV BASE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1648
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1649
+#EXTINF:-1,FR: NRJ12
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1650
