@@ -1,63 +1,241 @@
 #EXTM3U
-#EXTINF:-1,SPORTS 1 FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27669
-#EXTINF:-1,SPORTS 2 FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27668
-#EXTINF:-1,SPORTS 3 FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27667
-#EXTINF:-1,SPORTS 4 FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27666
-#EXTINF:-1,SPORTS 5 FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27665
-#EXTINF:-1,SPORTS 6 FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27664
-#EXTINF:-1,SPORTS 7 FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27663
-#EXTINF:-1,SPORTS 1 Premium FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27662
-#EXTINF:-1,SPORTS 2 Premium FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27661
-#EXTINF:-1,SPORTS 3 Premium FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27660
-#EXTINF:-1,SPORTS 1 HEVC
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27659
-#EXTINF:-1,SPORTS 2 HEVC
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27658
-#EXTINF:-1,SPORTS 3 HEVC
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27657
-#EXTINF:-1,SPORTS 4 HEVC
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27656
-#EXTINF:-1,SPORTS 5 HEVC
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27655
-#EXTINF:-1,SPORTS 6 HEVC
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27654
-#EXTINF:-1,SPORTS 7 HEVC
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27653
-#EXTINF:-1,SPORTS 8 HEVC
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27652
-#EXTINF:-1,SPORTS 9 HEVC
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27651
-#EXTINF:-1,SPORTS 10 HEVC
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27650
-#EXTINF:-1,SPORTS_HD4
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11142
-#EXTINF:-1,SPORTS_HD3
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11141
-#EXTINF:-1,SPORTS_HD2
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11140
-#EXTINF:-1,SPORTS_HD1
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11138
-#EXTINF:-1,SPORTS_SD1
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9206
-#EXTINF:-1,SPORTS_SD2
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9205
-#EXTINF:-1,SPORTS_SD3
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9204
-#EXTINF:-1,SPORTS_SD4
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9203
-#EXTINF:-1,SPORTS_SD5
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9202
-#EXTINF:-1,SPORTS_SD6
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9201
-#EXTINF:-1,SPORTS_SD7
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9200
+#EXTINF:0,ES: BeiN Laliga FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/37009
+#EXTINF:0,ES: BEIN LIGA 2
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/142730
+#EXTINF:0,ES: beIN Sport FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/37014
+#EXTINF:0,ES: BEIN SPORTS ESPANAA FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/45454
+#EXTINF:0,ES: BEIN SPORTS LA LIGA FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/45458
+#EXTINF:0,FR: Bein Sport 1 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25493
+#EXTINF:0,FR: BEIN SPORT 2 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25494
+#EXTINF:0,FR: BEIN SPORT 3 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25495
+#EXTINF:0,CA: beIN SPORTS
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/28012
+#EXTINF:0,IDS: BeiN Sport 1
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/135680
+#EXTINF:0,IDS: BeiN Sport 2
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/135679
+#EXTINF:0,MY: bEIN SPORT MAX
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/46666
+#EXTINF:0,FR: Bein Sport Max 4
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25735
+#EXTINF:0,FR: Bein Sport Max 5
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25736
+#EXTINF:0,FR: Bein Sport Max 6
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25737
+#EXTINF:0,FR: Bein Sport Max 7
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25738
+#EXTINF:0,FR: Bein Sport Max 8
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25739
+#EXTINF:0,FR: BEIN SPORT MAX 8 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/169716
+#EXTINF:0,FR: Bein Sport Max 9
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25740
+#EXTINF:0,FR: BEIN SPORT MAX 9 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/77408
+#EXTINF:0,FR: Bein Sport Max 10
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25734
+#EXTINF:0,FR: BEIN SPORT MAX 10 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/169717
+#EXTINF:0,FR: BEIN.SPORTS 2 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/138242
+#EXTINF:0,FR: BEIN.SPORTS 3 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/138243
+#EXTINF:0,SPORT: beIN Sports 2 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/137540
+#EXTINF:0,SPORT: beIN Sports 11 HDD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/142270
+#EXTINF:0,USA: beIN SPORTS HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/20528
+#EXTINF:0,USA: beIN SPORTS La Liga
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/30363
+#EXTINF:0,AU: BeIN SPORTS 2
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/39047
+#EXTINF:0,AU: beIN SPORTS 1
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/39049
+#EXTINF:0,AU: beIN SPORTS 3
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/39050
+#EXTINF:0,TR: beIN MOVIES STARS HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/5276
+#EXTINF:0,TR: BEIN GURME HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/5301
+#EXTINF:0,TR: BEiN SPORT HABER HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/5359
+#EXTINF:0,TR: beIN BOX OFFICE 1
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25976
+#EXTINF:0,TR: beIN BOX OFFICE 2
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25977
+#EXTINF:0,TR: beIN BOX OFFICE 3
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25978
+#EXTINF:0,TR: beIN BOX OFFICE TURK HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/77727
+#EXTINF:0,TR: BEIN GURME HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/65261
+#EXTINF:0,TR: BeIN H&E HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/77952
+#EXTINF:0,TR: BEIN IZ TV HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/38930
+#EXTINF:0,TR: beIN MOVIES ACTION 2 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25968
+#EXTINF:0,TR: beIN MOVIES ACTION HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25337
+#EXTINF:0,TR: beIN MOVIES FAMILY HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25336
+#EXTINF:0,TR: BEIN MOVIES FESTIVAL HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/38859
+#EXTINF:0,TR: beIN MOVIES OSCARS HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/135940
+#EXTINF:0,TR: beIN MOVIES PREMIER 2 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25334
+#EXTINF:0,TR: beIN MOVIES PREMIER HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25335
+#EXTINF:0,TR: beIN Movies Premiere HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/61669
+#EXTINF:0,TR: beIN Movies Stars HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/61670
+#EXTINF:0,TR: beIN Movies Turk HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/61671
+#EXTINF:0,TR: beIN MOVIES YESILCAM HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25960
+#EXTINF:0,TR: beIN SERIES COMEDY HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25331
+#EXTINF:0,TR: BEIN SERIES DRAMA HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/74313
+#EXTINF:0,TR: BEIN SERIES SC-FI HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/74314
+#EXTINF:0,TR: beIN SERIES SCI-FI HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25970
+#EXTINF:0,TR: BeIN Series VICE HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/36123
+#EXTINF:0,TR: BEIN SPORT 4
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/138225
+#EXTINF:0,TR: BEIN SPORT 4 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/22888
+#EXTINF:0,TR: BEIN SPORT HABER HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/74301
+#EXTINF:0,TR: BEiN SPORT MAX 1 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25821
+#EXTINF:0,TR: BEiN SPORT MAX 2 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25823
+#EXTINF:0,TR: BEIN SPORTS 1 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/22882
+#EXTINF:0,TR: BEIN SPORTS 2 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25298
+#EXTINF:0,TR: beIN SPORTS 3 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/22886
+#EXTINF:0,TR: BEIN SPORTS 4 4K
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/142630
+#EXTINF:0,TR: BEIN SPORTS 4K
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/38765
+#EXTINF:0,TR: beIN SPORTS HABER
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/25820
+#EXTINF:0,AR: BARAEM Bein
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/6184
+#EXTINF:0,AR: beIN Baraeem
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/141824
+#EXTINF:0,AR: beIN Box Office 2
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/142521
+#EXTINF:0,AR: beIN Box Office 3
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/141828
+#EXTINF:0,AR: beIN DRAMA
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/141829
+#EXTINF:0,AR: beIN DreamWorks
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/141830
+#EXTINF:0,AR: beIN DTX
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/141831
+#EXTINF:0,AR: beIN FOX ACTION MOVIE
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/141832
+#EXTINF:0,AR: BEIN FOX CRIME HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/137833
+#EXTINF:0,AR: BEIN FOX MOVIE
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/137834
+#EXTINF:0,AR: beIN GOURMET HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/46395
+#EXTINF:0,AR: beIN HGTV HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/46397
+#EXTINF:0,AR: beIN HLN
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/46398
+#EXTINF:0,AR: beIN Jeem HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/46399
+#EXTINF:0,AR: BEIN JUNIOR HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/41010
+#EXTINF:0,AR: beIN MOVIES 1 Premiere HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/17815
+#EXTINF:0,AR: beIN MOVIES 2 Action HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/17816
+#EXTINF:0,AR: beIN MOVIES 3 Drama HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/17817
+#EXTINF:0,AR: beIN MOVIES 4 Family HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/17818
+#EXTINF:0,AR: beIN Movies Family 4 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/141835
+#EXTINF:0,AR: beIN Movies Premiere 1+ HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/141836
+#EXTINF:0,AR: beIN Outdoor
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/137716
+#EXTINF:0,AR: beIN SERIES 1 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/12938
+#EXTINF:0,AR: beIN Series 2 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/17824
+#EXTINF:0,AR: beIN Sport News FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/83116
+#EXTINF:0,AR: beIN SPORTS 1 HD VIP
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/170078
+#EXTINF:0,AR: beIN SPORTS 2 HD VIP
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/170079
+#EXTINF:0,AR: beIN SPORTS 3 HD VIP
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/170080
+#EXTINF:0,AR: beIN SPORTS 4 HD VIP
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/170081
+#EXTINF:0,AR: beIN SPORTS 5 HD VIP
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/170082
+#EXTINF:0,AR: beIN SPORTS 6 HD VIP
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/170083
+#EXTINF:0,AR: beIN SPORTS 7 HD VIP
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/170084
+#EXTINF:0,AR: BEIN SPORTS ENGLISH 1 FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/26216
+#EXTINF:0,AR: beIN SPORTS ENGLISH 2 FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/31446
+#EXTINF:0,AR: beIN SPORTS ENGLISH 3 FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/10790
+#EXTINF:0,AR: beIN SPORTS FRENCH 1 FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/17758
+#EXTINF:0,AR: beIN Sports French 2 FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/158819
+#EXTINF:0,AR: beIN Sports French 3 FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/158820
+#EXTINF:0,AR: beIN SPORTS XTRA 1 FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/17756
+#EXTINF:0,AR: beIN SPORTS XTRA 2 FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/18446
+#EXTINF:0,AR: beIN SPORTS HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/4606
+#EXTINF:0,AR: Bein Sports La Liga
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/39139
+#EXTINF:0,AR: BEIN SPORTS NEWS HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/17750
+#EXTINF:0,AR: beIN Sports Premium 1 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/18376
+#EXTINF:0,AR: beIN SPORTS Premium 2 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/74131
+#EXTINF:0,AR: BEIN SPORTS Premium 3 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/26215
+#EXTINF:0,AR: beIN Travel HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/141840
+#EXTINF:0,AR: BEINSPORTS 1 HD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/1207
+#EXTINF:0,AR: JEEM Bein
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/6278
+#EXTINF:0,MY: beIN Sports
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/135474
+#EXTINF:0,PH: beIN Sports1
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/100PP56
+#EXTINF:0,PH: beIN Sports2
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com00PP/100PP57
