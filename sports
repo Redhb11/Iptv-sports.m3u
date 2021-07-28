@@ -1,49 +1,171 @@
 #EXTM3U
-#EXTINF:-1,SPORTS XTRA 1 LOW
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/150359
-#EXTINF:-1,SPORTS XTRA 2 LOW
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/150358
-#EXTINF:-1,SPORTS. HD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/150211
-#EXTINF:-1,SPORTS XTRA 2 SD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149860
-#EXTINF:-1,SPORTS XTRA 1 SD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149859
-#EXTINF:-1,SPORT EN 1 HD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/108943
-#EXTINF:-1,SPORT EN 2 HD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/108944
-#EXTINF:-1,SPORT EN 1 FHD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/108945
-#EXTINF:-1,SPORT EN 2 FHD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/108946
-#EXTINF:-1,SPORT EN 1 HEVC
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/108947
-#EXTINF:-1,SPORT EN 2 HEVC
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/108948
-#EXTINF:-1,SPORTS  1 4K
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149330
-#EXTINF:-1,SPORTS  2 4K
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149331
-#EXTINF:-1,SPORTS 3 4K
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149332
-#EXTINF:-1,SPORTS  4 4K
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149333
-#EXTINF:-1,SPORTS  5 4K
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149334
-#EXTINF:-1,SPORTS  6 4K
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149335
-#EXTINF:-1,SPORTS  7 4K
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149336
-#EXTINF:-1,SPORTS XTRA 1 HD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149734
-#EXTINF:-1,SPORTS XTRA 2 HD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149733
-#EXTINF:-1,SPORTS XTRA 1 FHD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149732
-#EXTINF:-1,SPORTS XTRA 2 FHD
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149731
-#EXTINF:-1,SPORTS XTRA 1 HEVC
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149730
-#EXTINF:-1,SPORTS XTRA 2 HEVC
-http://marveliptv.life:80/MARVELSTART098211/TOPCANL5367/149729
+#EXTINF:-1,Sport Extra 1 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/76940.ts
+#EXTINF:-1,Sport Extra 2 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/76941.ts
+#EXTINF:-1,lo Sport Premium SD1
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64461.ts
+#EXTINF:-1,lo Sport Premium SD2
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64462.ts
+#EXTINF:-1,lo Sport Premium SD3
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64463.ts
+#EXTINF:-1,lo Sport SD1
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64464.ts
+#EXTINF:-1,lo Sport SD2
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64465.ts
+#EXTINF:-1,lo Sport SD3
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64466.ts
+#EXTINF:-1,lo Sport SD4
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64467.ts
+#EXTINF:-1,lo Sport SD5
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64468.ts
+#EXTINF:-1,lo Sport SD6
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64469.ts
+#EXTINF:-1,lo Sport SD7
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64470.ts
+#EXTINF:-1,Sport Premium SD 1
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64299.ts
+#EXTINF:-1,Sport Premium SD 2
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64300.ts
+#EXTINF:-1,Sport Premium SD 3
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64301.ts
+#EXTINF:-1,Sport SD 1
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64302.ts
+#EXTINF:-1,Sport SD 2
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64303.ts
+#EXTINF:-1,Sport SD 3
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64304.ts
+#EXTINF:-1,Sport SD 4
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64305.ts
+#EXTINF:-1,Sport SD 5
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64306.ts
+#EXTINF:-1,Sport SD 6
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64307.ts
+#EXTINF:-1,Sport SD 7
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64308.ts
+#EXTINF:-1,lo Sport Premium 1
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64472.ts
+#EXTINF:-1,lo Sport Premium 2
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64473.ts
+#EXTINF:-1,lo Sport Premium 3
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64474.ts
+#EXTINF:-1,lo Sport 1 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64475.ts
+#EXTINF:-1,lo Sport 2 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64476.ts
+#EXTINF:-1,lo Sport 3 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64477.ts
+#EXTINF:-1,lo Sport 4 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64478.ts
+#EXTINF:-1,lo Sport 5 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64479.ts
+#EXTINF:-1,lo Sport 6 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64480.ts
+#EXTINF:-1,lo Sport 7 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64481.ts
+#EXTINF:-1,Sports Premium 1
+http://firetv.vip:80/live/a0549743275r/rt0549743275/71361.ts
+#EXTINF:-1,Sports Premium 2
+http://firetv.vip:80/live/a0549743275r/rt0549743275/71362.ts
+#EXTINF:-1,Sports Premium 3
+http://firetv.vip:80/live/a0549743275r/rt0549743275/71363.ts
+#EXTINF:-1,Sport 1 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64261.ts
+#EXTINF:-1,Sport 2 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64262.ts
+#EXTINF:-1,Sport 3 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64263.ts
+#EXTINF:-1,Sport 4 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64264.ts
+#EXTINF:-1,Sport 5 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64265.ts
+#EXTINF:-1,Sport 6 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64266.ts
+#EXTINF:-1,Sport 7 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64267.ts
+#EXTINF:-1,Sport NBA HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64274.ts
+#EXTINF:-1,LO SPORTS PREMIUM 01 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61013.ts
+#EXTINF:-1,LO SPORTS PREMIUM 02 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61014.ts
+#EXTINF:-1,LO SPORTS PREMIUM 03 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61015.ts
+#EXTINF:-1,LO SPORTS 01 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61016.ts
+#EXTINF:-1,LO SPORTS 02 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61017.ts
+#EXTINF:-1,LO SPORTS 03 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61018.ts
+#EXTINF:-1,LO SPORTS 04 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61019.ts
+#EXTINF:-1,LO SPORTS 05 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61020.ts
+#EXTINF:-1,LO SPORTS 06 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61021.ts
+#EXTINF:-1,LO SPORTS 07 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61022.ts
+#EXTINF:-1,Sports Extra HD1
+http://firetv.vip:80/live/a0549743275r/rt0549743275/76938.ts
+#EXTINF:-1,Sports Extra HD2
+http://firetv.vip:80/live/a0549743275r/rt0549743275/76939.ts
+#EXTINF:-1,LO SPORTS PREMIUM 01 FHD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61026.ts
+#EXTINF:-1,LO SPORTS PREMIUM  02 FHD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61027.ts
+#EXTINF:-1,LO SPORTS PREMIUM  03 FHD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61028.ts
+#EXTINF:-1,LO SPORTS 01 FHD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61029.ts
+#EXTINF:-1,LO SPORTS 02 FHD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61030.ts
+#EXTINF:-1,LO SPORTS 03 FHD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61031.ts
+#EXTINF:-1,LO SPORTS 04 FHD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61032.ts
+#EXTINF:-1,LO SPORTS 05 FHD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61033.ts
+#EXTINF:-1,LO SPORTS 06 FHD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61034.ts
+#EXTINF:-1,LO SPORTS 07 FHD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61035.ts
+#EXTINF:-1,SPORTS Premium 1 FHD+
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75529.ts
+#EXTINF:-1,SPORTS Premium 2 FHD+
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75530.ts
+#EXTINF:-1,SPORTS Premium 3 FHD+
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75531.ts
+#EXTINF:-1,SPORTS 1 FHD+
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75532.ts
+#EXTINF:-1,SPORTS 2 FHD+
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75533.ts
+#EXTINF:-1,SPORTS 3 FHD+
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75534.ts
+#EXTINF:-1,SPORTS 4 FHD+
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75535.ts
+#EXTINF:-1,SPORTS 5 FHD+
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75536.ts
+#EXTINF:-1,SPORTS 6 FHD+
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75537.ts
+#EXTINF:-1,SPORTS 7 FHD+
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75538.ts
+#EXTINF:-1,Sports Premium 1 FHD++
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75557.ts
+#EXTINF:-1,Sports Premium 2 FHD++
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75558.ts
+#EXTINF:-1,Sports Premium 3 FHD++
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75559.ts
+#EXTINF:-1,Sports 1 FHD++
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75560.ts
+#EXTINF:-1,Sports 2 FHD++
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75561.ts
+#EXTINF:-1,Sports 3 FHD++
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75562.ts
+#EXTINF:-1,Sports 4 FHD++
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75563.ts
+#EXTINF:-1,Sports 5 FHD++
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75564.ts
+#EXTINF:-1,Sports 6 FHD++
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75565.ts
+#EXTINF:-1,Sports 7 FHD++
+http://firetv.vip:80/live/a0549743275r/rt0549743275/75566.ts
