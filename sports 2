@@ -1,25 +1,41 @@
 #EXTM3U
-#EXTINF:-1,SPORT 1 HD PREMIUM
-http://ricoootv.xyz:8080/beinsports/beinsports/1
-#EXTINF:-1,SPORT 2 HD PREMIUM
-http://ricoootv.xyz:8080/beinsports/beinsports/2
-#EXTINF:-1,SPORT 3 HD PREMIUM
-http://ricoootv.xyz:8080/beinsports/beinsports/3
-#EXTINF:-1,SPORT 1 HD
-http://ricoootv.xyz:8080/beinsports/beinsports/4
-#EXTINF:-1,SPORT 2 HD
-http://ricoootv.xyz:8080/beinsports/beinsports/5
-#EXTINF:-1,SPORT 3 HD
-http://ricoootv.xyz:8080/beinsports/beinsports/6
-#EXTINF:-1,SPORT 5 HD
-http://ricoootv.xyz:8080/beinsports/beinsports/8
-#EXTINF:-1,SPORT 6 HD
-http://ricoootv.xyz:8080/beinsports/beinsports/9
-#EXTINF:-1,SPORT 7 HD
-http://ricoootv.xyz:8080/beinsports/beinsports/10
-#EXTINF:-1,SPORT 4 HD
-http://ricoootv.xyz:8080/beinsports/beinsports/7
-#EXTINF:-1,XTRA 1
-http://ricoootv.xyz:8080/beinsports/beinsports/424
-#EXTINF:-1,XTRA 2
-http://ricoootv.xyz:8080/beinsports/beinsports/425
+#EXTINF:-1,Sport 1 Premium HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/2
+#EXTINF:-1,Sport 2 Premium HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/3
+#EXTINF:-1,Sports 3 Premium HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/4
+#EXTINF:-1,Sports 1 HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/5
+#EXTINF:-1,Sports 2 HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/6
+#EXTINF:-1,Sports 3 HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/7
+#EXTINF:-1,Sports 4 HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/8
+#EXTINF:-1,Sport HD 5
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/9
+#EXTINF:-1,Sport HD 6
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/10
+#EXTINF:-1,Sport HD 7
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/11
+#EXTINF:-1,Sport 1 Premium SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/12
+#EXTINF:-1,Sport 2 Premium SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/13
+#EXTINF:-1,Sport 3 Premium SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/14
+#EXTINF:-1,Sports 1 SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/15
+#EXTINF:-1,Sport 3 SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/17
+#EXTINF:-1,Sport SD 4
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/18
+#EXTINF:-1,Sport SD 5
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/19
+#EXTINF:-1,Sport SD 6
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/20
+#EXTINF:-1,Sport SD 7
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/21
+#EXTINF:-1,Sports 2 SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/16
