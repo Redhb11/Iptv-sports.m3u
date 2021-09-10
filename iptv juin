@@ -1,67 +1,151 @@
 #EXTM3U
-#EXTINF:-1,SUPER SPORT 1
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/256
-#EXTINF:-1,SUPER SPORT 2
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/257
-#EXTINF:-1,SUPER SPORT 3
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/258
-#EXTINF:-1,SUPER SPORT 4
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/259
-#EXTINF:-1,SUPER SPORT 5
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/260
-#EXTINF:-1,SUPER SPORT 6
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/261
-#EXTINF:-1,SUPER SPORT 7
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/262
-#EXTINF:-1,TRING SPORT 1
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/263
-#EXTINF:-1,TRING SPORT 2
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/264
-#EXTINF:-1,TRING SPORT 3
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/265
-#EXTINF:-1,TRING SPORT 4
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/266
-#EXTINF:-1,Kujtesa Sport 1
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/351
-#EXTINF:-1,Kujtesa Sport 2
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/352
-#EXTINF:-1,Kujtesa Sport 3
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/353
-#EXTINF:-1,Kujtesa Sport 4
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/354
-#EXTINF:-1,ART Sport 1
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/355
-#EXTINF:-1,ART Sport 2
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/356
-#EXTINF:-1,ART Sport 3
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/357
-#EXTINF:-1,SPORT KLUB  1
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/5
-#EXTINF:-1,SPORT KLUB  2
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/6
-#EXTINF:-1,SPORT KLUB  3
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/7
-#EXTINF:-1,Arena Sport 1
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/9
-#EXTINF:-1,Arena Sport 2
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/10
-#EXTINF:-1,Arena Sport 3
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/11
-#EXTINF:-1,Polsat Sport Premium 1
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/13
-#EXTINF:-1,Polsat Sport Premium 2
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/14
-#EXTINF:-1,ELEVEN SPORTS 1
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/846
-#EXTINF:-1,ELEVEN SPORTS 2
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/847
-#EXTINF:-1,Polsat Sport FIGHT
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/18
-#EXTINF:-1,Sports 1 TR
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/31
-#EXTINF:-1,Sports 2 TR
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/32
-#EXTINF:-1,Sports 3 TR
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/33
-#EXTINF:-1,Sports 4 TR
-http://brutus.biz:2082/Birdy/DeTgOqOHL5/34
+#EXTINF:-1,DE_SKY_Bundesliga_2_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/101
+#EXTINF:-1,DE_SKY_Bundesliga_3_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/102
+#EXTINF:-1,DE_SKY_Sport_1_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/103
+#EXTINF:-1,DE_SKY_Sport_2_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/104
+#EXTINF:-1,DE_SKY_Sport_3_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/105
+#EXTINF:-1,DE_SKY_Sport_4_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/106
+#EXTINF:-1,DE_SKY_Sport_Austria_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/107
+#EXTINF:-1,DE_Sport_1_+
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/110
+#EXTINF:-1,DE_Sportdigital
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/111
+#EXTINF:-1,DE_SKY_Sport_Austria_3_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/112
+#EXTINF:-1,DE_SKY_Sport_Austria_2_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/113
+#EXTINF:-1,TR_Sports_1_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/114
+#EXTINF:-1,TR_Sports_2_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/115
+#EXTINF:-1,TR_Sports_3_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/116
+#EXTINF:-1,TR_Sports_4_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/117
+#EXTINF:-1,BG_Diema_Sport
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/118
+#EXTINF:-1,BG_Diema_Sport_2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/119
+#EXTINF:-1,BG_Nova_Sport_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/120
+#EXTINF:-1,HR_Arena_Sport_2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/121
+#EXTINF:-1,HR_Arena_Sport_3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/122
+#EXTINF:-1,HR_Arena_Sport_4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/123
+#EXTINF:-1,HR_Arena_Sport_5
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/124
+#EXTINF:-1,HR_Arena_Sport_1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/125
+#EXTINF:-1,SR_Arena_Sport_1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/126
+#EXTINF:-1,SR_Arena_Sport_2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/127
+#EXTINF:-1,SR_Arena_Sport_3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/128
+#EXTINF:-1,SR_Arena_Sport_4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/129
+#EXTINF:-1,SR_Arena_Sport_5
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/130
+#EXTINF:-1,Sportklub_6
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/131
+#EXTINF:-1,Sportklub_5
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/132
+#EXTINF:-1,Sportklub_3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/133
+#EXTINF:-1,Sportklub_2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/134
+#EXTINF:-1,Sportklub_1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/135
+#EXTINF:-1,Sportklub_4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/136
+#EXTINF:-1,Sports_9
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/140
+#EXTINF:-1,Sports_8
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/141
+#EXTINF:-1,Sports_7
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/142
+#EXTINF:-1,Sports_6
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/143
+#EXTINF:-1,Sports_5
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/144
+#EXTINF:-1,Sports_4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/145
+#EXTINF:-1,Sports_3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/146
+#EXTINF:-1,Sports_2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/147
+#EXTINF:-1,Sports_10
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/148
+#EXTINF:-1,Sports_1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/149
+#EXTINF:-1,UK_Channel_4_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/150
+#EXTINF:-1,UK_Channel_5_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/151
+#EXTINF:-1,UK_ITV_1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/152
+#EXTINF:-1,UK_ITV_2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/153
+#EXTINF:-1,UK_ITV_3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/154
+#EXTINF:-1,UK_BBC_1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/155
+#EXTINF:-1,UK_BBC_2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/156
+#EXTINF:-1,UK_Manchester_United_TV
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/157
+#EXTINF:-1,UK_SKY_Sports_Action_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/158
+#EXTINF:-1,UK_SKY_Sports_Arena_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/159
+#EXTINF:-1,UK_SKY_Sports_Cricket_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/160
+#EXTINF:-1,UK_SKY_Sports_F1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/161
+#EXTINF:-1,UK_SKY_Sports_Football
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/162
+#EXTINF:-1,UK_SKY_Sports_Main_Event
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/163
+#EXTINF:-1,UK_SKY_Sports_Mix
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/164
+#EXTINF:-1,UK_SKY_Sports_News
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/165
+#EXTINF:-1,UK_SKY_Sports_Premier_League
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/166
+#EXTINF:-1,UK_SKY_Sports_GOLF_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/167
+#EXTINF:-1,BT Sport 2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/82
+#EXTINF:-1,BT Sport 3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/83
+#EXTINF:-1,BT Sport ESPN
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/84
+#EXTINF:-1,Digi Sport 1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/85
+#EXTINF:-1,Digi Sport 2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/86
+#EXTINF:-1,Digi Sport 3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/87
+#EXTINF:-1,Digi Sport 4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/88
+#EXTINF:-1,HR_Arena_Sport_6
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/89
+#EXTINF:-1,PT_Sport_TV_3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/191
+#EXTINF:-1,PT_Sport_TV_1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/189
+#EXTINF:-1,PT_Sport_TV_2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/190
+#EXTINF:-1,PT_Sport_TV_4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/192
+#EXTINF:-1,PT_Sport_TV_5
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/193
