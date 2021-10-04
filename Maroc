@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Undefined",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Al Aoula Inter HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1457?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Al Maghribia HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1458?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Arryadia HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1459?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Assadissa HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1460?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Athaqafia HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1461?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",M24 MAROC
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1464?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Undefined",M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Medi1 TV HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1462?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.net
